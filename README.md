@@ -1,4 +1,4 @@
-# Daily Digest — 2026-08-22
+# Daily Digest — 2026-08-23
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Count the number of cricket chirps in a 15-second period, add 37 to the total, and your result will be very close to the actual outdoor Fahrenheit temperature.
+Columbia University is the second largest landowner in New York City, after the Catholic Church.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ Count the number of cricket chirps in a 15-second period, add 37 to the total, a
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more." — Nikola Tesla
+"The biggest adventure you can ever take is to live the life of your dreams." — Oprah Winfrey
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![SBB Ce 6-8 II 14253 Wassen - Gurtnellen.jpg](https://upload.wikimedia.org/wikipedia/commons/6/68/SBB_Ce_6-8_II_14253_Wassen_-_Gurtnellen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![017 Hyacinth macaw flying in Encontro das Águas State Park Photo by Giles Laurent.jpg](https://upload.wikimedia.org/wikipedia/commons/1/1d/017_Hyacinth_macaw_flying_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**SBB Ce 6-8 II 14253 Wassen - Gurtnellen.jpg**
+**017 Hyacinth macaw flying in Encontro das Águas State Park Photo by Giles Laurent.jpg**
 
-SBB Ce 6/8 II 14253 "crocodile" electric locomotive with the Gotthard mountain route experience train 31066 Lavorgo - Erstfeld crosses the lower Wattingen bridge near Wassen, Switzerland.
+Hyacinth macaw (Anodorhynchus hyacinthinus) in flight in Mato Grosso, Brazil
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:SBB_Ce_6-8_II_14253_Wassen_-_Gurtnellen.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:017_Hyacinth_macaw_flying_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -60,10 +60,10 @@ _Trivia lookup failed today._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1780** — James Cook's ship HMS Resolution returns to England (Cook having been killed on Hawaii during the voyage).
+**1966** — Lunar Orbiter 1 takes the first photograph of Earth from orbit around the Moon.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-08-22T06:50:57.568408+00:00 UTC_
+_Last updated: 2026-08-23T06:51:57.075029+00:00 UTC_
