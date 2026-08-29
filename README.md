@@ -1,4 +1,4 @@
-# Daily Digest — 2026-08-28
+# Daily Digest — 2026-08-29
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The official beverage of Ohio is tomato juice.
+Coca-Cola would be green if coloring weren’t added to it.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ The official beverage of Ohio is tomato juice.
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"Whatever you decide to do, make sure it makes you happy." — Paulo Coelho
+"Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment." — Celestine Chua
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Short-toed Snake-Eagle in Bhigwan August 2025 by Tisha Mukherjee 01.jpg](https://upload.wikimedia.org/wikipedia/commons/7/7d/Short-toed_Snake-Eagle_in_Bhigwan_August_2025_by_Tisha_Mukherjee_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Bloemknop van een blauwe knoop (Succisa pratensis). 29-08-2023. (d.j.b).jpg](https://upload.wikimedia.org/wikipedia/commons/4/4a/Bloemknop_van_een_blauwe_knoop_%28Succisa_pratensis%29._29-08-2023._%28d.j.b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Short-toed Snake-Eagle in Bhigwan August 2025 by Tisha Mukherjee 01.jpg**
+**Bloemknop van een blauwe knoop (Succisa pratensis). 29-08-2023. (d.j.b).jpg**
 
-Circaetus gallicus (Short-toed snake eagle) in Bhigwan, Maharashtra, India
+Flower bud of a  Succisa pratensis. Focus stack of 36 photos. The main flower is about 11 mm in diameter.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Short-toed_Snake-Eagle_in_Bhigwan_August_2025_by_Tisha_Mukherjee_01.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bloemknop_van_een_blauwe_knoop_(Succisa_pratensis)._29-08-2023._(d.j.b).jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -49,8 +49,8 @@ Circaetus gallicus (Short-toed snake eagle) in Bhigwan, Maharashtra, India
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Celebrities · Easy]** Aubrey Graham is better known as
-> Answer: ||Drake||
+**[Entertainment: Video Games · Easy]** When was the top-down online RPG "Space Station 13" released?
+> Answer: ||2003||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -59,10 +59,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1879** — Cetshwayo, last king of the Zulus, is captured by the British.
+**1915** — US Navy salvage divers raise F-4, the first U.S. submarine sunk in an accident.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-08-28T18:29:39.790287+00:00 UTC_
+_Last updated: 2026-08-29T12:35:52.365799+00:00 UTC_
