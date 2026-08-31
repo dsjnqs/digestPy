@@ -1,4 +1,4 @@
-# Daily Digest — 2026-08-30
+# Daily Digest — 2026-08-31
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Mosquito repellents don`t repel. They hide you. The spray blocks the mosquito`s sensors so they don`t know you`re there.
+"You" is the second most spoken English word
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ Mosquito repellents don`t repel. They hide you. The spray blocks the mosquito`s 
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"Keep your eyes on the goal, and just keep taking the next step towards completing it." — John Carmack
+"To a mind that is still, the entire universe surrenders." — Zhuangzi
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![006 Toco toucan in Encontro das Águas State Park Photo by Giles Laurent.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b0/006_Toco_toucan_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Devonshire Lodge (Low-Martin House), Windsor, Ontario, 2025-08-31 01.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e8/Devonshire_Lodge_%28Low-Martin_House%29%2C_Windsor%2C_Ontario%2C_2025-08-31_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**006 Toco toucan in Encontro das Águas State Park Photo by Giles Laurent.jpg**
+**Devonshire Lodge (Low-Martin House), Windsor, Ontario, 2025-08-31 01.jpg**
 
-Toco toucan (Ramphastos toco) in Mato Grosso, Brazil
+Devonshire Lodge (Low-Martin House), Windsor, Ontario, Canada. Commissioned by the rum-runner Harry Low in 1927, the building was designed in the style of a Cotswold cottage and completed in 1928. It served as the home of Member of Parliament Paul Martin Sr. for almost three decades. It was designated under the Ontario Heritage Act in 2008.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:006_Toco_toucan_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Devonshire_Lodge_(Low-Martin_House),_Windsor,_Ontario,_2025-08-31_01.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -49,8 +49,8 @@ Toco toucan (Ramphastos toco) in Mato Grosso, Brazil
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[History · Easy]** Which of the following countries was not an axis power during World War II?
-> Answer: || Soviet Union||
+**[Geography · Easy]** What is the official language of Costa Rica?
+> Answer: ||Spanish||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -59,10 +59,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1464** — Pope Paul II succeeds Pope Pius II as the 211th pope.
+**1949** — The retreat of the Democratic Army of Greece in Albania after its defeat on Gramos mountain marks the end of the Greek Civil War.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-08-30T11:43:57.865140+00:00 UTC_
+_Last updated: 2026-08-31T13:22:51.705152+00:00 UTC_
