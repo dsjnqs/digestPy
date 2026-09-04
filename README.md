@@ -1,4 +1,4 @@
-# Daily Digest — 2026-09-03
+# Daily Digest — 2026-09-04
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,9 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-_Fact lookup failed today._
-
-**Error:** `HTTP Error 500: Internal Server Error`
+Beetles taste like apples, wasps like pine nuts, and worms like fried bacon.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -27,7 +25,7 @@ _Fact lookup failed today._
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"If you don't find the time, if you don't do the work, you don't get the results." — Arnold Schwarzenegger
+"Do good by stealth, and blush to find it fame." — Alexander Pope
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -36,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Almabtrieb Freiburger Alpe - Anna schmückt ein Schild mit dem Namen der Alpe, der Max unterstützt seine Mama.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b9/Almabtrieb_Freiburger_Alpe_-_Anna_schm%C3%BCckt_ein_Schild_mit_dem_Namen_der_Alpe%2C_der_Max_unterst%C3%BCtzt_seine_Mama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Norderney, Marienhöhe -- 2025 -- 9295-9.jpg](https://upload.wikimedia.org/wikipedia/commons/f/fe/Norderney%2C_Marienh%C3%B6he_--_2025_--_9295-9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Almabtrieb Freiburger Alpe - Anna schmückt ein Schild mit dem Namen der Alpe, der Max unterstützt seine Mama.jpg**
+**Norderney, Marienhöhe -- 2025 -- 9295-9.jpg**
 
-Anna, with Max supporting his mother, decorates a sign for the Almabtrieb. Freiburger Alpe, Bavaria, Germany, September 2024.
+Café and restaurant “Marienhöhe”, Norderney, Lower Saxony, Germany
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Almabtrieb_Freiburger_Alpe_-_Anna_schm%C3%BCckt_ein_Schild_mit_dem_Namen_der_Alpe,_der_Max_unterst%C3%BCtzt_seine_Mama.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Norderney,_Marienh%C3%B6he_--_2025_--_9295-9.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -51,8 +49,8 @@ Anna, with Max supporting his mother, decorates a sign for the Almabtrieb. Freib
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Science: Computers · Easy]** This mobile OS held the largest market share in 2012.
-> Answer: ||iOS||
+**[Entertainment: Film · Easy]** In Avengers: Infinity War, where was the Soul Stone located?
+> Answer: ||Vormir||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -61,10 +59,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**590** — Consecration of Pope Gregory I (Gregory the Great).
+**1797** — Coup of 18 Fructidor in France.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-09-03T11:01:57.899891+00:00 UTC_
+_Last updated: 2026-09-04T11:02:54.471968+00:00 UTC_
