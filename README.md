@@ -1,4 +1,4 @@
-# Daily Digest — 2026-09-04
+# Daily Digest — 2026-09-05
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Beetles taste like apples, wasps like pine nuts, and worms like fried bacon.
+Honey is the only food which does not spoil.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ Beetles taste like apples, wasps like pine nuts, and worms like fried bacon.
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"Do good by stealth, and blush to find it fame." — Alexander Pope
+"However difficult life may seem, there is always something you can do and succeed at." — Stephen Hawking
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Norderney, Marienhöhe -- 2025 -- 9295-9.jpg](https://upload.wikimedia.org/wikipedia/commons/f/fe/Norderney%2C_Marienh%C3%B6he_--_2025_--_9295-9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Tallinna vanalinn päikesetõusu ajal.jpg](https://upload.wikimedia.org/wikipedia/commons/6/64/Tallinna_vanalinn_p%C3%A4ikeset%C3%B5usu_ajal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Norderney, Marienhöhe -- 2025 -- 9295-9.jpg**
+**Tallinna vanalinn päikesetõusu ajal.jpg**
 
-Café and restaurant “Marienhöhe”, Norderney, Lower Saxony, Germany
+Tallinn old town during sunrise. View from Patkul viewing platform.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Norderney,_Marienh%C3%B6he_--_2025_--_9295-9.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tallinna_vanalinn_p%C3%A4ikeset%C3%B5usu_ajal.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -49,8 +49,8 @@ Café and restaurant “Marienhöhe”, Norderney, Lower Saxony, Germany
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Film · Easy]** In Avengers: Infinity War, where was the Soul Stone located?
-> Answer: ||Vormir||
+**[Mythology · Easy]** What mythology did the god "Apollo" come from?
+> Answer: ||Greek and Roman||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -59,10 +59,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1797** — Coup of 18 Fructidor in France.
+**1945** — Iva Toguri D'Aquino, a Japanese American suspected of being wartime radio propagandist Tokyo Rose, is arrested in Yokohama.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-09-04T11:02:54.471968+00:00 UTC_
+_Last updated: 2026-09-05T10:24:48.176189+00:00 UTC_
