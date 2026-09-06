@@ -1,4 +1,4 @@
-# Daily Digest — 2026-09-05
+# Daily Digest — 2026-09-06
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Honey is the only food which does not spoil.
+The highest per capita Jell-O comsumption in the US is Des Moines.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ Honey is the only food which does not spoil.
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"However difficult life may seem, there is always something you can do and succeed at." — Stephen Hawking
+"A man with outward courage dares to die: a man with inner courage dares to live." — Lao Tzu
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Tallinna vanalinn päikesetõusu ajal.jpg](https://upload.wikimedia.org/wikipedia/commons/6/64/Tallinna_vanalinn_p%C3%A4ikeset%C3%B5usu_ajal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Indian rhinoceros (Rhinoceros unicornis) 1.jpg](https://upload.wikimedia.org/wikipedia/commons/8/8b/Indian_rhinoceros_%28Rhinoceros_unicornis%29_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Tallinna vanalinn päikesetõusu ajal.jpg**
+**Indian rhinoceros (Rhinoceros unicornis) 1.jpg**
 
-Tallinn old town during sunrise. View from Patkul viewing platform.
+Indian rhinoceros (Rhinoceros unicornis) near Narayani River, Chitwan Community Forest buffer zone, Nepal
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tallinna_vanalinn_p%C3%A4ikeset%C3%B5usu_ajal.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Indian_rhinoceros_(Rhinoceros_unicornis)_1.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -49,8 +49,8 @@ Tallinn old town during sunrise. View from Patkul viewing platform.
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Mythology · Easy]** What mythology did the god "Apollo" come from?
-> Answer: ||Greek and Roman||
+**[Science & Nature · Hard]** What is considered the rarest form of color blindness?
+> Answer: ||Blue||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -59,10 +59,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1945** — Iva Toguri D'Aquino, a Japanese American suspected of being wartime radio propagandist Tokyo Rose, is arrested in Yokohama.
+**1620** — The Pilgrims sail from Plymouth, England on the Mayflower to settle in North America. (Old Style date; September 16 per New Style date.)
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-09-05T10:24:48.176189+00:00 UTC_
+_Last updated: 2026-09-06T10:43:22.761187+00:00 UTC_
