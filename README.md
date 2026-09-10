@@ -1,4 +1,4 @@
-# Daily Digest — 2026-09-09
+# Daily Digest — 2026-09-10
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The "Dull Men's Hall of Fame" is located in Carroll, Wisconsin.
+About 200,000,000 M&Ms are sold each day in the United States.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,9 +25,7 @@ The "Dull Men's Hall of Fame" is located in Carroll, Wisconsin.
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-_Quote lookup failed today._
-
-**Error:** `<urlopen error timed out>`
+"Simple words, repeated daily, can change your life." — Maxime Lagace
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -36,13 +34,13 @@ _Quote lookup failed today._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![189 Red-and-green macaw couple flying in Chapada dos Guimarães National Park Photo by Giles Laurent.jpg](https://upload.wikimedia.org/wikipedia/commons/5/5d/189_Red-and-green_macaw_couple_flying_in_Chapada_dos_Guimar%C3%A3es_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Barred Buttonquail in Bhigwan August 2025 by Tisha Mukherjee 17.jpg](https://upload.wikimedia.org/wikipedia/commons/2/24/Barred_Buttonquail_in_Bhigwan_August_2025_by_Tisha_Mukherjee_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**189 Red-and-green macaw couple flying in Chapada dos Guimarães National Park Photo by Giles Laurent.jpg**
+**Barred Buttonquail in Bhigwan August 2025 by Tisha Mukherjee 17.jpg**
 
-Red-and-green macaw (Ara chloropterus) couple in flight in Mato Grosso, Brazil
+Turnix suscitator (Barred Buttonquail) in Bhigwan, Maharashtra, India.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:189_Red-and-green_macaw_couple_flying_in_Chapada_dos_Guimar%C3%A3es_National_Park_Photo_by_Giles_Laurent.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Barred_Buttonquail_in_Bhigwan_August_2025_by_Tisha_Mukherjee_17.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -51,8 +49,8 @@ Red-and-green macaw (Ara chloropterus) couple in flight in Mato Grosso, Brazil
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Books · Medium]** Which novel by John Grisham was conceived on a road trip to Florida while thinking about stolen books with his wife?
-> Answer: ||Camino Island||
+**[History · Easy]** What was the first sport to have been played on the moon?
+> Answer: ||Golf||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -61,10 +59,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1969** — In Canada, the Official Languages Act comes into force, making French equal to English throughout the Federal government.
+**1509** — An earthquake known as "The Lesser Judgment Day" hits Constantinople.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-09-09T11:08:11.039283+00:00 UTC_
+_Last updated: 2026-09-10T11:03:54.536435+00:00 UTC_
