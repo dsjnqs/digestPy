@@ -1,4 +1,4 @@
-# Daily Digest — 2026-09-10
+# Daily Digest — 2026-09-11
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-About 200,000,000 M&Ms are sold each day in the United States.
+Thirty-five percent of the people who use personal ads for dating are already married.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ About 200,000,000 M&Ms are sold each day in the United States.
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"Simple words, repeated daily, can change your life." — Maxime Lagace
+"It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose." — Ming-Dao Deng
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Barred Buttonquail in Bhigwan August 2025 by Tisha Mukherjee 17.jpg](https://upload.wikimedia.org/wikipedia/commons/2/24/Barred_Buttonquail_in_Bhigwan_August_2025_by_Tisha_Mukherjee_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Baikal, Cape Burhan, Olkhon Island, Lake Baikal, Russia.jpg](https://upload.wikimedia.org/wikipedia/commons/0/0a/Baikal%2C_Cape_Burhan%2C_Olkhon_Island%2C_Lake_Baikal%2C_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Barred Buttonquail in Bhigwan August 2025 by Tisha Mukherjee 17.jpg**
+**Baikal, Cape Burhan, Olkhon Island, Lake Baikal, Russia.jpg**
 
-Turnix suscitator (Barred Buttonquail) in Bhigwan, Maharashtra, India.
+Cape Burhan with Shamanka Rock. The rock formation is made of white marble, dolomite, limestone, with inclusions of garnet, quartz and graphite. Olkhon Island, Lake Baikal, Russia.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Barred_Buttonquail_in_Bhigwan_August_2025_by_Tisha_Mukherjee_17.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Baikal,_Cape_Burhan,_Olkhon_Island,_Lake_Baikal,_Russia.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -49,8 +49,8 @@ Turnix suscitator (Barred Buttonquail) in Bhigwan, Maharashtra, India.
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[History · Easy]** What was the first sport to have been played on the moon?
-> Answer: ||Golf||
+**[History · Easy]** Which famous world leader is famed for the saying, "Let them eat cake", yet is rumored that he/she never said it at all?
+> Answer: ||Marie Antoinette||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -59,10 +59,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1509** — An earthquake known as "The Lesser Judgment Day" hits Constantinople.
+**1609** — Henry Hudson discovers Manhattan Island and the indigenous people living there.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-09-10T11:03:54.536435+00:00 UTC_
+_Last updated: 2026-09-11T11:02:12.847152+00:00 UTC_
