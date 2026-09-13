@@ -1,4 +1,4 @@
-# Daily Digest — 2026-09-12
+# Daily Digest — 2026-09-13
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,9 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-It's impossible to sneeze with your eyes open.
+_Fact lookup failed today._
+
+**Error:** `HTTP Error 500: Internal Server Error`
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +27,7 @@ It's impossible to sneeze with your eyes open.
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"He who leaves the game wins it." — Nicolas Chamfort
+"Everyday is a second chance." — Unknown
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +36,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Sankt Olofs kyrkoruin september 2013 01.jpg](https://upload.wikimedia.org/wikipedia/commons/9/9e/Sankt_Olofs_kyrkoruin_september_2013_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Breil-Brigels. (actm) 02.jpg](https://upload.wikimedia.org/wikipedia/commons/f/fa/Breil-Brigels._%28actm%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Sankt Olofs kyrkoruin september 2013 01.jpg**
+**Breil-Brigels. (actm) 02.jpg**
 
-Ruins of the St. Olof Church at Sigtuna.
+Breil-Brigels. Lag da Breil. Reservoir with low water level.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sankt_Olofs_kyrkoruin_september_2013_01.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Breil-Brigels._(actm)_02.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -49,8 +51,8 @@ Ruins of the St. Olof Church at Sigtuna.
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[History · Easy]** How was Socrates executed?
-> Answer: ||Poison||
+**[History · Medium]** Which U.S. president took part in the Potsdam Conference, where the Allies reached a peace settlement with Germany?
+> Answer: ||Harry S. Truman||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -59,10 +61,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**2014** — Three-year-old William Tyrrell disappears in Kendall, New South Wales, Australia
+**1964** — South Vietnamese Generals Lâm Văn Phát and Dương Văn Đức fail in a coup attempt against General Nguyễn Khánh.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-09-12T10:31:20.062975+00:00 UTC_
+_Last updated: 2026-09-13T11:34:12.370500+00:00 UTC_
