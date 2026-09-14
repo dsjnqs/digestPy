@@ -1,4 +1,4 @@
-# Daily Digest — 2026-09-13
+# Daily Digest — 2026-09-14
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,9 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-_Fact lookup failed today._
-
-**Error:** `HTTP Error 500: Internal Server Error`
+55.1% of all US prisoners are in prison for drug offenses.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -27,7 +25,7 @@ _Fact lookup failed today._
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"Everyday is a second chance." — Unknown
+"If you spend too much time thinking about a thing, you'll never get it done." — Bruce Lee
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -36,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Breil-Brigels. (actm) 02.jpg](https://upload.wikimedia.org/wikipedia/commons/f/fa/Breil-Brigels._%28actm%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Oregon National Historic Trail in Wyoming.jpg](https://upload.wikimedia.org/wikipedia/commons/7/7a/Oregon_National_Historic_Trail_in_Wyoming.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Breil-Brigels. (actm) 02.jpg**
+**Oregon National Historic Trail in Wyoming.jpg**
 
-Breil-Brigels. Lag da Breil. Reservoir with low water level.
+A historical reenactment of a pioneer traveling the Oregon Trail in Wyoming.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Breil-Brigels._(actm)_02.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Oregon_National_Historic_Trail_in_Wyoming.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -51,8 +49,8 @@ Breil-Brigels. Lag da Breil. Reservoir with low water level.
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[History · Medium]** Which U.S. president took part in the Potsdam Conference, where the Allies reached a peace settlement with Germany?
-> Answer: ||Harry S. Truman||
+**[Entertainment: Music · Medium]** Which band, with Boy George on lead vocals, won the Brit Awards in 1984?
+> Answer: ||Culture Club	||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -61,10 +59,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1964** — South Vietnamese Generals Lâm Văn Phát and Dương Văn Đức fail in a coup attempt against General Nguyễn Khánh.
+**1862** — American Civil War: The Battle of South Mountain, part of the Maryland Campaign, is fought.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-09-13T11:34:12.370500+00:00 UTC_
+_Last updated: 2026-09-14T12:28:25.274662+00:00 UTC_
