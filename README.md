@@ -1,4 +1,4 @@
-# Daily Digest — 2026-09-14
+# Daily Digest — 2026-09-15
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-55.1% of all US prisoners are in prison for drug offenses.
+The Michelin man is known as Mr. Bib. His name was Bibendum in the company’s first ads in 1896.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ _Something true, interesting, or surprising._
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"If you spend too much time thinking about a thing, you'll never get it done." — Bruce Lee
+"Knowing yourself is the beginning of all wisdom." — Aristotle
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Oregon National Historic Trail in Wyoming.jpg](https://upload.wikimedia.org/wikipedia/commons/7/7a/Oregon_National_Historic_Trail_in_Wyoming.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Iglesia del colegio de los Jesuitas, Ponta Delgada, isla de San Miguel, Azores, Portugal, 2020-07-30, DD 09-11 HDR.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e8/Iglesia_del_colegio_de_los_Jesuitas%2C_Ponta_Delgada%2C_isla_de_San_Miguel%2C_Azores%2C_Portugal%2C_2020-07-30%2C_DD_09-11_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Oregon National Historic Trail in Wyoming.jpg**
+**Iglesia del colegio de los Jesuitas, Ponta Delgada, isla de San Miguel, Azores, Portugal, 2020-07-30, DD 09-11 HDR.jpg**
 
-A historical reenactment of a pioneer traveling the Oregon Trail in Wyoming.
+Church of the Jesuit College, Ponta Delgada, São Miguel Island, Azores, Portugal
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Oregon_National_Historic_Trail_in_Wyoming.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Iglesia_del_colegio_de_los_Jesuitas,_Ponta_Delgada,_isla_de_San_Miguel,_Azores,_Portugal,_2020-07-30,_DD_09-11_HDR.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -49,8 +49,8 @@ A historical reenactment of a pioneer traveling the Oregon Trail in Wyoming.
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Music · Medium]** Which band, with Boy George on lead vocals, won the Brit Awards in 1984?
-> Answer: ||Culture Club	||
+**[Entertainment: Video Games · Medium]** When was Club Penguin launched?
+> Answer: ||October 24, 2005||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -59,10 +59,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1862** — American Civil War: The Battle of South Mountain, part of the Maryland Campaign, is fought.
+**1789** — The United States "Department of Foreign Affairs", established by law in July, is renamed the Department of State and given a variety of domestic duties.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-09-14T12:28:25.274662+00:00 UTC_
+_Last updated: 2026-09-15T11:32:24.082244+00:00 UTC_
