@@ -1,4 +1,4 @@
-# Daily Digest — 2026-09-17
+# Daily Digest — 2026-09-18
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-166,875,000,000 pieces of mail are delivered each year in the US
+"I am." is the shortest complete sentence in the English language.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ _Something true, interesting, or surprising._
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"When things go wrong, don't go with them." — Elvis Presley
+"Till it has loved, no man or woman can become itself." — Emily Dickinson
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![প্রবারণা পূর্ণিমায় আলোকরশ্মি শান্তির প্রার্থনায় মগ্ন শ্রমণগণ (00001957).jpg](https://upload.wikimedia.org/wikipedia/commons/4/44/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%BE_%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A6%BC_%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A6%B0%E0%A6%B6%E0%A7%8D%E0%A6%AE%E0%A6%BF_%E0%A6%B6%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8%E0%A6%BE%E0%A6%AF%E0%A6%BC_%E0%A6%AE%E0%A6%97%E0%A7%8D%E0%A6%A8_%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%A3%E0%A6%97%E0%A6%A3_%2800001957%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Norderney, Promenade, Wegbeleuchtung -- 2025 -- 9015.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f4/Norderney%2C_Promenade%2C_Wegbeleuchtung_--_2025_--_9015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**প্রবারণা পূর্ণিমায় আলোকরশ্মি শান্তির প্রার্থনায় মগ্ন শ্রমণগণ (00001957).jpg**
+**Norderney, Promenade, Wegbeleuchtung -- 2025 -- 9015.jpg**
 
+Street lights on the promenade, Norderney, Lower Saxony, Germany
 
-
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%BE_%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A6%BC_%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A6%B0%E0%A6%B6%E0%A7%8D%E0%A6%AE%E0%A6%BF_%E0%A6%B6%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8%E0%A6%BE%E0%A6%AF%E0%A6%BC_%E0%A6%AE%E0%A6%97%E0%A7%8D%E0%A6%A8_%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%A3%E0%A6%97%E0%A6%A3_(00001957).jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Norderney,_Promenade,_Wegbeleuchtung_--_2025_--_9015.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -49,8 +49,8 @@ _Wikipedia's Picture of the Day._
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Video Games · Medium]** What is the perk that was introduced in the "Call Of Duty: Zombies" map, "Mob Of The Dead"?
-> Answer: ||Electric Cherry||
+**[Science & Nature · Hard]** Which horizon in a soil profile consists of bedrock?
+> Answer: ||R||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -59,10 +59,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1862** — American Civil War: The Allegheny Arsenal explosion results in the single largest civilian disaster during the war.
+**1872** — King Oscar II accedes to the throne of Sweden-Norway.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-09-17T11:26:53.316303+00:00 UTC_
+_Last updated: 2026-09-18T10:59:59.866541+00:00 UTC_
