@@ -1,4 +1,4 @@
-# Daily Digest — 2026-09-18
+# Daily Digest — 2026-09-19
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-"I am." is the shortest complete sentence in the English language.
+The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ _Something true, interesting, or surprising._
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"Till it has loved, no man or woman can become itself." — Emily Dickinson
+"Make your mind your own business." — Jack Butcher
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Norderney, Promenade, Wegbeleuchtung -- 2025 -- 9015.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f4/Norderney%2C_Promenade%2C_Wegbeleuchtung_--_2025_--_9015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Zitting Cisticola in Bhigwan August 2025 by Tisha Mukherjee 01.jpg](https://upload.wikimedia.org/wikipedia/commons/0/0e/Zitting_Cisticola_in_Bhigwan_August_2025_by_Tisha_Mukherjee_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Norderney, Promenade, Wegbeleuchtung -- 2025 -- 9015.jpg**
+**Zitting Cisticola in Bhigwan August 2025 by Tisha Mukherjee 01.jpg**
 
-Street lights on the promenade, Norderney, Lower Saxony, Germany
+A fan-tailed warbler (Zitting cisticola) in Bhigwan, Maharashtra, India.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Norderney,_Promenade,_Wegbeleuchtung_--_2025_--_9015.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Zitting_Cisticola_in_Bhigwan_August_2025_by_Tisha_Mukherjee_01.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -49,8 +49,8 @@ Street lights on the promenade, Norderney, Lower Saxony, Germany
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Science & Nature · Hard]** Which horizon in a soil profile consists of bedrock?
-> Answer: ||R||
+**[Entertainment: Video Games · Hard]** In Minecraft, what update did foods like steak become stackable?
+> Answer: ||Beta 1.8||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -59,10 +59,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1872** — King Oscar II accedes to the throne of Sweden-Norway.
+**1356** — Battle of Poitiers: An English army under the command of Edward, the Black Prince defeats a French army and captures the French king, John II.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-09-18T10:59:59.866541+00:00 UTC_
+_Last updated: 2026-09-19T10:43:39.446435+00:00 UTC_
