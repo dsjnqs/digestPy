@@ -1,4 +1,4 @@
-# Daily Digest — 2026-09-19
+# Daily Digest — 2026-09-20
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips.
+One of the reasons marijuana is illegal today is because cotton growers in the 1930s lobbied against hemp farmers they saw it as competition.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ The Eisenhower interstate system requires that one mile in every five must be st
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"Make your mind your own business." — Jack Butcher
+"A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road." — Henry Ward Beecher
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Zitting Cisticola in Bhigwan August 2025 by Tisha Mukherjee 01.jpg](https://upload.wikimedia.org/wikipedia/commons/0/0e/Zitting_Cisticola_in_Bhigwan_August_2025_by_Tisha_Mukherjee_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Bloeiwijze van een Rostrinucula dependens. 11-10-2025. (d.j.b).jpg](https://upload.wikimedia.org/wikipedia/commons/8/80/Bloeiwijze_van_een_Rostrinucula_dependens._11-10-2025._%28d.j.b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Zitting Cisticola in Bhigwan August 2025 by Tisha Mukherjee 01.jpg**
+**Bloeiwijze van een Rostrinucula dependens. 11-10-2025. (d.j.b).jpg**
 
-A fan-tailed warbler (Zitting cisticola) in Bhigwan, Maharashtra, India.
+Inflorescence of a Rostrinucula dependens. This subshrub is native to China and blooms from August to October. Focus stack of 54 photos.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Zitting_Cisticola_in_Bhigwan_August_2025_by_Tisha_Mukherjee_01.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bloeiwijze_van_een_Rostrinucula_dependens._11-10-2025._(d.j.b).jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -49,8 +49,8 @@ A fan-tailed warbler (Zitting cisticola) in Bhigwan, Maharashtra, India.
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Video Games · Hard]** In Minecraft, what update did foods like steak become stackable?
-> Answer: ||Beta 1.8||
+**[Entertainment: Television · Medium]** In what year did "The Big Bang Theory" debut on CBS?
+> Answer: ||2007||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -59,10 +59,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1356** — Battle of Poitiers: An English army under the command of Edward, the Black Prince defeats a French army and captures the French king, John II.
+**1881** — U.S. President Chester A. Arthur is sworn in, the morning after becoming President upon James A. Garfield's death.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-09-19T10:43:39.446435+00:00 UTC_
+_Last updated: 2026-09-20T11:06:29.057813+00:00 UTC_
