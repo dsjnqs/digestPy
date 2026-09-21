@@ -1,4 +1,4 @@
-# Daily Digest — 2026-09-20
+# Daily Digest — 2026-09-21
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-One of the reasons marijuana is illegal today is because cotton growers in the 1930s lobbied against hemp farmers they saw it as competition.
+A horse can look forward with one eye and back with the other.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ One of the reasons marijuana is illegal today is because cotton growers in the 1
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road." — Henry Ward Beecher
+"The smallest act of kindness is worth more than the greatest intention." — Kahlil Gibran
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Bloeiwijze van een Rostrinucula dependens. 11-10-2025. (d.j.b).jpg](https://upload.wikimedia.org/wikipedia/commons/8/80/Bloeiwijze_van_een_Rostrinucula_dependens._11-10-2025._%28d.j.b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Chief Joseph by Edward Sheriff Curtis.jpg](https://upload.wikimedia.org/wikipedia/commons/5/59/Chief_Joseph_by_Edward_Sheriff_Curtis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Bloeiwijze van een Rostrinucula dependens. 11-10-2025. (d.j.b).jpg**
+**Chief Joseph by Edward Sheriff Curtis.jpg**
 
-Inflorescence of a Rostrinucula dependens. This subshrub is native to China and blooms from August to October. Focus stack of 54 photos.
+Chief Joseph of the Wallowa band of Nez Perce, an American Native American tribe in the Pacific Northwest. This photo was taken by Edward Sheriff Curtis. Chief Joseph died on this day in 1904.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bloeiwijze_van_een_Rostrinucula_dependens._11-10-2025._(d.j.b).jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chief_Joseph_by_Edward_Sheriff_Curtis.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -49,8 +49,8 @@ Inflorescence of a Rostrinucula dependens. This subshrub is native to China and 
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Television · Medium]** In what year did "The Big Bang Theory" debut on CBS?
-> Answer: ||2007||
+**[Geography · Medium]** Which country has the abbreviation "CH"?
+> Answer: ||Switzerland||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -59,10 +59,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1881** — U.S. President Chester A. Arthur is sworn in, the morning after becoming President upon James A. Garfield's death.
+**1792** — French Revolution: The National Convention declares France a republic and abolishes the absolute monarchy.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-09-20T11:06:29.057813+00:00 UTC_
+_Last updated: 2026-09-21T12:34:37.850352+00:00 UTC_
