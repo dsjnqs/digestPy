@@ -1,4 +1,4 @@
-# Daily Digest — 2026-09-22
+# Daily Digest — 2026-09-23
 
 _A daily digest, refreshed automatically once a day._
 
@@ -7,7 +7,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 
 _Word lookup failed today._
 
-**Error:** `<urlopen error [Errno 104] Connection reset by peer>`
+**Error:** `The read operation timed out`
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-When a Hawaiian woman wears a flower over her left ear, it means that she is not available.
+The first bomb the Allies dropped on Berlin in WWII killed the only elephant in the Berlin Zoo.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ When a Hawaiian woman wears a flower over her left ear, it means that she is not
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself." — Samuel Butler
+"When we strive to become better than we are, everything around us becomes better, too." — Paulo Coelho
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Beach of Cape Fiolent, Crimea.jpg](https://upload.wikimedia.org/wikipedia/commons/4/45/Beach_of_Cape_Fiolent%2C_Crimea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Zabytkowa cerkiew wpisana na listę UNESCO.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d9/Zabytkowa_cerkiew_wpisana_na_list%C4%99_UNESCO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Beach of Cape Fiolent, Crimea.jpg**
+**Zabytkowa cerkiew wpisana na listę UNESCO.jpg**
 
-Beach of Cape Fiolent during the storm at sea. Cape Fiolent in Crimea is of ancient Jurassic origin. Upper Miocene lava and carbonate intrusions on heavily eroded Jurassic foundation.
+Paraskevi of Iconium church in Kwiatoń, Southern Poland.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Beach_of_Cape_Fiolent,_Crimea.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Zabytkowa_cerkiew_wpisana_na_list%C4%99_UNESCO.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -49,8 +49,8 @@ Beach of Cape Fiolent during the storm at sea. Cape Fiolent in Crimea is of anci
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[General Knowledge · Medium]** The website "Shut Up & Sit Down" reviews which form of media?
-> Answer: ||Board Games||
+**[Entertainment: Music · Easy]** Which band recorded the album "Parallel Lines"?
+> Answer: ||Blondie||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -59,10 +59,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1598** — English playwright Ben Jonson kills actor Gabriel Spenser in a duel and is indicted for manslaughter.
+**1806** — Lewis and Clark return to St. Louis after exploring the Pacific Northwest of the United States.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-09-22T11:22:13.078203+00:00 UTC_
+_Last updated: 2026-09-23T11:17:51.943366+00:00 UTC_
