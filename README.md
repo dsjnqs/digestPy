@@ -1,4 +1,4 @@
-# Daily Digest — 2026-09-24
+# Daily Digest — 2026-09-25
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Deborah Winger did the voice of E.T.
+The average human eats 8 spiders in their lifetime at night.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ Deborah Winger did the voice of E.T.
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"You are what you believe in. You become that which you believe you can become." — Bhagavad Gita
+"Give so much away people insist on paying you." — Jack Butcher
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Violet-backed starling (Cinnyricinclus leucogaster verreauxi) female.jpg](https://upload.wikimedia.org/wikipedia/commons/c/c6/Violet-backed_starling_%28Cinnyricinclus_leucogaster_verreauxi%29_female.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![NE Lac Bab Louta Tazekka Nov25 A7CR 09270-4 HDR1.jpg](https://upload.wikimedia.org/wikipedia/commons/1/1a/NE_Lac_Bab_Louta_Tazekka_Nov25_A7CR_09270-4_HDR1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Violet-backed starling (Cinnyricinclus leucogaster verreauxi) female.jpg**
+**NE Lac Bab Louta Tazekka Nov25 A7CR 09270-4 HDR1.jpg**
 
+Bab Louta Reservoir, Tazekka National Park, Taza province, Morocco
 
-
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Violet-backed_starling_(Cinnyricinclus_leucogaster_verreauxi)_female.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:NE_Lac_Bab_Louta_Tazekka_Nov25_A7CR_09270-4_HDR1.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -49,8 +49,8 @@ _Wikipedia's Picture of the Day._
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Video Games · Easy]** The football video game series "Pro Evolution Soccer" is developed by which company?
-> Answer: ||Konami||
+**[Entertainment: Film · Medium]** What was the name of the protagonist in the movie Commando (1985)?
+> Answer: ||John Matrix||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -59,10 +59,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1979** — CompuServe launches the first consumer internet service, which features the first public electronic mail service.
+**1690** — Publick Occurrences Both Forreign and Domestick, the first newspaper to appear in the Americas, is published for the first and only time.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-09-24T11:31:34.868787+00:00 UTC_
+_Last updated: 2026-09-25T11:37:47.020863+00:00 UTC_
