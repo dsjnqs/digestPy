@@ -1,4 +1,4 @@
-# Daily Digest — 2026-09-26
+# Daily Digest — 2026-09-27
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The U.S. city with the highest rate of lightning strikes per capita is Clearwater, Florida.
+A literal translation of a standard traffic sign in China: "Give large space to the festive dog that makes sport in the roadway."
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ The U.S. city with the highest rate of lightning strikes per capita is Clearwate
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"If you get up one more time than you fall, you will make it through." — Chinese Proverb
+"Don't let your learning lead to knowledge. Let your learning lead to action." — Jim Rohn
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![002 Jabiru feeding its babies in their nest in Encontro das Águas State Park Photo by Giles Laurent.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b2/002_Jabiru_feeding_its_babies_in_their_nest_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Gladiolus dalenii flower Ooty Jul25 A7CR 06187-224 zsp.jpg](https://upload.wikimedia.org/wikipedia/commons/0/05/Gladiolus_dalenii_flower_Ooty_Jul25_A7CR_06187-224_zsp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**002 Jabiru feeding its babies in their nest in Encontro das Águas State Park Photo by Giles Laurent.jpg**
+**Gladiolus dalenii flower Ooty Jul25 A7CR 06187-224 zsp.jpg**
 
-Jabiru (Jabiru mycteria) feeding its chicks in their nest in Mato Grosso, Brazil
+Gladiolus dalenii (parrot gladiolus) flower in the rain. About 4–5 cm (1.6–2.0 in) across. Garden plant in Ooty, The Nilgiris, south India. Focus-stack of 38 images.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:002_Jabiru_feeding_its_babies_in_their_nest_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gladiolus_dalenii_flower_Ooty_Jul25_A7CR_06187-224_zsp.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -49,8 +49,8 @@ Jabiru (Jabiru mycteria) feeding its chicks in their nest in Mato Grosso, Brazil
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Film · Hard]** What was the wifi password given to Stephen Strange in Doctor Strange?
-> Answer: ||Shambala||
+**[Science & Nature · Hard]** Burning which of these metals will produce a bright white flame?
+> Answer: ||Magnesium||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -59,10 +59,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1580** — Sir Francis Drake finishes his circumnavigation of the Earth.
+**1854** — The steamship SS Arctic sinks with 300 people on board. This marks the first great disaster in the Atlantic Ocean.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-09-26T11:12:00.016031+00:00 UTC_
+_Last updated: 2026-09-27T11:50:25.272173+00:00 UTC_
