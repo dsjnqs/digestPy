@@ -1,4 +1,4 @@
-# Daily Digest — 2026-09-29
+# Daily Digest — 2026-09-30
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-"Venus observa" is the technical term for the "missionary position."
+Dogs and cats consume over $11 billion worth of pet food a year
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ _Something true, interesting, or surprising._
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"Silence is a source of great strength." — Lao Tzu
+"If you've made a mistake, it's better just to laugh at it." — Zen Proverb
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Ceiling Painted Dome Cupola Angels Fighting Demons in Vatican Museums.png](https://upload.wikimedia.org/wikipedia/commons/5/51/Ceiling_Painted_Dome_Cupola_Angels_Fighting_Demons_in_Vatican_Museums.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Split Cathedral Bell Tower From The Vestibule - Split.jpg](https://upload.wikimedia.org/wikipedia/commons/9/93/Split_Cathedral_Bell_Tower_From_The_Vestibule_-_Split.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Ceiling Painted Dome Cupola Angels Fighting Demons in Vatican Museums.png**
+**Split Cathedral Bell Tower From The Vestibule - Split.jpg**
 
-Ceiling Painted Dome Cupola Angels Fighting Demons in the Vatican Museums. Today is Michaelmas in much of Western Christianity.
+The tower of the Cathedral of Saint Domnius (Split, Croatia) as seen from the Vestibule of Diocletian's Palace.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ceiling_Painted_Dome_Cupola_Angels_Fighting_Demons_in_Vatican_Museums.png)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Split_Cathedral_Bell_Tower_From_The_Vestibule_-_Split.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -49,8 +49,8 @@ Ceiling Painted Dome Cupola Angels Fighting Demons in the Vatican Museums. Today
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Science & Nature · Medium]** What is the chemical formula for ammonia?
-> Answer: ||NH3||
+**[Sports · Medium]** Which darts player has won the most World Championship titles?
+> Answer: ||Phil Taylor||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -59,10 +59,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1975** — WGPR in Detroit, Michigan, becomes the world's first black-owned-and-operated television station.
+**1965** — The Lockheed L-100, the civilian version of the C-130 Hercules, is introduced.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-09-29T12:35:28.239443+00:00 UTC_
+_Last updated: 2026-09-30T12:21:08.009761+00:00 UTC_
