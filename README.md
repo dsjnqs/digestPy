@@ -1,4 +1,4 @@
-# Daily Digest — 2026-10-01
+# Daily Digest — 2026-10-02
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Sharon Stone was the first Star Search spokes model.
+The catfish has the most taste buds of all animals, having over 27,000 of them.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,9 @@ Sharon Stone was the first Star Search spokes model.
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"When you stop questioning, you stop learning." — Lolly Daskal
+_Quote lookup failed today._
+
+**Error:** `<urlopen error timed out>`
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +36,14 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Catedral de la Encarnación, Málaga, España, 2023-05-19, DD 37-39 HDR.jpg](https://upload.wikimedia.org/wikipedia/commons/4/47/Catedral_de_la_Encarnaci%C3%B3n%2C_M%C3%A1laga%2C_Espa%C3%B1a%2C_2023-05-19%2C_DD_37-39_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Gene Autry, NPG 94 39.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b1/Gene_Autry%2C_NPG_94_39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Catedral de la Encarnación, Málaga, España, 2023-05-19, DD 37-39 HDR.jpg**
+**Gene Autry, NPG 94 39.jpg**
 
-Choir of the Málaga Cathedral, Andalusia, Spain. The Roman Catholic church was built in the Renaissance architectural tradition between 1528 and 1782 following the plans drawn by Diego de Siloe. The temple is considered one of the Renaissance jewels in all Andalusia.
+Gene Autry in 1942. 
+ Autry died on this date in 1998.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Catedral_de_la_Encarnaci%C3%B3n,_M%C3%A1laga,_Espa%C3%B1a,_2023-05-19,_DD_37-39_HDR.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gene_Autry,_NPG_94_39.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -49,8 +52,8 @@ Choir of the Málaga Cathedral, Andalusia, Spain. The Roman Catholic church was 
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Music · Medium]** What was the name of Pink Floyd's first studio album?
-> Answer: ||The Piper at the Gates of Dawn||
+**[Entertainment: Video Games · Medium]** What happened to Half-Life 2 prior to its release, which resulted in Valve starting over the development of the game?
+> Answer: ||The source code got leaked||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -59,10 +62,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1991** — The Siege of Dubrovnik begins.
+**1996** — The Electronic Freedom of Information Act Amendments are signed by U.S. President Bill Clinton.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-10-01T12:56:11.661400+00:00 UTC_
+_Last updated: 2026-10-02T12:19:33.223404+00:00 UTC_
