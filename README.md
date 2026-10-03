@@ -1,4 +1,4 @@
-# Daily Digest — 2026-10-02
+# Daily Digest — 2026-10-03
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The catfish has the most taste buds of all animals, having over 27,000 of them.
+A lion's roar can be heard from five miles away.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,9 +25,7 @@ The catfish has the most taste buds of all animals, having over 27,000 of them.
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-_Quote lookup failed today._
-
-**Error:** `<urlopen error timed out>`
+"We are born from a quiet sleep, and we die to a calm awakening" — Zhuangzi
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -36,14 +34,13 @@ _Quote lookup failed today._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Gene Autry, NPG 94 39.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b1/Gene_Autry%2C_NPG_94_39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Brown booby (Sula leucogaster plotus) male in flight Michaelmas Cay.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b6/Brown_booby_%28Sula_leucogaster_plotus%29_male_in_flight_Michaelmas_Cay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Gene Autry, NPG 94 39.jpg**
+**Brown booby (Sula leucogaster plotus) male in flight Michaelmas Cay.jpg**
 
-Gene Autry in 1942. 
- Autry died on this date in 1998.
+Brown booby (Sula leucogaster plotus) male in flight over Michaelmas Cay, Great Barrier Reef, Queensland, Australia.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gene_Autry,_NPG_94_39.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brown_booby_(Sula_leucogaster_plotus)_male_in_flight_Michaelmas_Cay.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -52,8 +49,8 @@ Gene Autry in 1942.
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Video Games · Medium]** What happened to Half-Life 2 prior to its release, which resulted in Valve starting over the development of the game?
-> Answer: ||The source code got leaked||
+**[Geography · Hard]** Where is Fort Marlborough located?
+> Answer: ||Bengkulu||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -62,10 +59,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1996** — The Electronic Freedom of Information Act Amendments are signed by U.S. President Bill Clinton.
+**1989** — a coup in Panama City is suppressed and 11 participants are executed.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-10-02T12:19:33.223404+00:00 UTC_
+_Last updated: 2026-10-03T11:28:41.406012+00:00 UTC_
