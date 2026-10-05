@@ -1,4 +1,4 @@
-# Daily Digest — 2026-10-04
+# Daily Digest — 2026-10-05
 
 _A daily digest, refreshed automatically once a day._
 
@@ -7,7 +7,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 
 _Word lookup failed today._
 
-**Error:** `HTTP Error 404: Not Found`
+**Error:** `The read operation timed out`
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Like fingerprints, everyone's tongue print is different!
+If you plant an apple seed, it is almost guaranteed to grow a tree of a different type of apple.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ Like fingerprints, everyone's tongue print is different!
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"Would you rather learn to deal with the truth now than be forced to do so later on?" — Celestine Chua
+"Engage in those actions and thoughts that nurture the good qualities you want to have." — Paramahansa Yogananda
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Basilica dei Santi Apostoli (Rome) - Ceiling.jpg](https://upload.wikimedia.org/wikipedia/commons/5/52/Basilica_dei_Santi_Apostoli_%28Rome%29_-_Ceiling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Krummhörn, Greetsiel, Windmühlen -- 2025 -- 9837.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b4/Krummh%C3%B6rn%2C_Greetsiel%2C_Windm%C3%BChlen_--_2025_--_9837.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Basilica dei Santi Apostoli (Rome) - Ceiling.jpg**
+**Krummhörn, Greetsiel, Windmühlen -- 2025 -- 9837.jpg**
 
-Baciccio's Triumph of Franciscan Order depicts the Apostles recommending Francis of Assisi, Anthony of Padua, and other Franciscans to Christ for admittance into Heaven. The fresco is on the vaulted ceiling of the Church of the Twelve Holy Apostles in Rome. This year is the 800th anniversary of Francis of Assisi's death. Today is his feast day.
+Twin mills (front: green mill, 1856; rear: red mill or Schoof’s mill, 1706), Greetsiel, Krummhörn, Lower Saxony, Germany
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Basilica_dei_Santi_Apostoli_(Rome)_-_Ceiling.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Krummh%C3%B6rn,_Greetsiel,_Windm%C3%BChlen_--_2025_--_9837.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -51,7 +51,7 @@ _A quick knowledge challenge._
 
 _Trivia lookup failed today._
 
-**Error:** `HTTP Error 429: Too Many Requests`
+**Error:** `<urlopen error timed out>`
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -60,10 +60,10 @@ _Trivia lookup failed today._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1917** — World War I: The Battle of Broodseinde is fought between the British and German armies in Flanders.
+**1947** — The first televised White House address is given by U.S. President Harry S. Truman.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-10-04T12:09:28.219990+00:00 UTC_
+_Last updated: 2026-10-05T14:18:45.739887+00:00 UTC_
