@@ -1,4 +1,4 @@
-# Daily Digest — 2026-10-05
+# Daily Digest — 2026-10-06
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-If you plant an apple seed, it is almost guaranteed to grow a tree of a different type of apple.
+In ancient Greece "idiot" meant a private citizen or layman.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ If you plant an apple seed, it is almost guaranteed to grow a tree of a differen
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"Engage in those actions and thoughts that nurture the good qualities you want to have." — Paramahansa Yogananda
+"A gentleman is one who puts more into the world than he takes out." — George Bernard Shaw
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Krummhörn, Greetsiel, Windmühlen -- 2025 -- 9837.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b4/Krummh%C3%B6rn%2C_Greetsiel%2C_Windm%C3%BChlen_--_2025_--_9837.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Bessen van een Mahonia aquifolium. 17-08-2025. (actm.) 01.jpg](https://upload.wikimedia.org/wikipedia/commons/0/08/Bessen_van_een_Mahonia_aquifolium._17-08-2025._%28actm.%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Krummhörn, Greetsiel, Windmühlen -- 2025 -- 9837.jpg**
+**Bessen van een Mahonia aquifolium. 17-08-2025. (actm.) 01.jpg**
 
-Twin mills (front: green mill, 1856; rear: red mill or Schoof’s mill, 1706), Greetsiel, Krummhörn, Lower Saxony, Germany
+Berries from a Mahonia aquifolium shrub. Focus stack of 19 photos.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Krummh%C3%B6rn,_Greetsiel,_Windm%C3%BChlen_--_2025_--_9837.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bessen_van_een_Mahonia_aquifolium._17-08-2025._(actm.)_01.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -49,9 +49,8 @@ Twin mills (front: green mill, 1856; rear: red mill or Schoof’s mill, 1706), G
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-_Trivia lookup failed today._
-
-**Error:** `<urlopen error timed out>`
+**[Science & Nature · Easy]** Which of these bones is hardest to break?
+> Answer: ||Femur||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -60,10 +59,10 @@ _Trivia lookup failed today._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1947** — The first televised White House address is given by U.S. President Harry S. Truman.
+**1762** — Seven Years' War: Conclusion of the Battle of Manila between Britain and Spain, which resulted in the British occupation of Manila for the rest of the war.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-10-05T14:18:45.739887+00:00 UTC_
+_Last updated: 2026-10-06T13:10:39.095917+00:00 UTC_
