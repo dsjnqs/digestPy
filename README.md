@@ -1,4 +1,4 @@
-# Daily Digest — 2026-10-06
+# Daily Digest — 2026-10-07
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-In ancient Greece "idiot" meant a private citizen or layman.
+On average, Americans eat 18 acres of pizza everyday.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ In ancient Greece "idiot" meant a private citizen or layman.
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"A gentleman is one who puts more into the world than he takes out." — George Bernard Shaw
+"Be happy now, without reason - or you never will be at all." — Dan Millman
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Bessen van een Mahonia aquifolium. 17-08-2025. (actm.) 01.jpg](https://upload.wikimedia.org/wikipedia/commons/0/08/Bessen_van_een_Mahonia_aquifolium._17-08-2025._%28actm.%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Rain Quail in Bhigwan August 2025 by Tisha Mukherjee 13.jpg](https://upload.wikimedia.org/wikipedia/commons/6/64/Rain_Quail_in_Bhigwan_August_2025_by_Tisha_Mukherjee_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Bessen van een Mahonia aquifolium. 17-08-2025. (actm.) 01.jpg**
+**Rain Quail in Bhigwan August 2025 by Tisha Mukherjee 13.jpg**
 
-Berries from a Mahonia aquifolium shrub. Focus stack of 19 photos.
+Coturnix coromandelica (Rain Quail) in Bhigwan, Maharashtra, India.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bessen_van_een_Mahonia_aquifolium._17-08-2025._(actm.)_01.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rain_Quail_in_Bhigwan_August_2025_by_Tisha_Mukherjee_13.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -49,8 +49,8 @@ Berries from a Mahonia aquifolium shrub. Focus stack of 19 photos.
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Science & Nature · Easy]** Which of these bones is hardest to break?
-> Answer: ||Femur||
+**[Entertainment: Video Games · Easy]** In the first game of the Sly Cooper franchise, what family heirloom did Sly Cooper want to steal back?
+> Answer: ||Thievius Raccoonus||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -59,10 +59,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1762** — Seven Years' War: Conclusion of the Battle of Manila between Britain and Spain, which resulted in the British occupation of Manila for the rest of the war.
+**3761 BC** — The epoch reference date epoch (origin) of the modern Hebrew calendar (Proleptic Julian calendar).
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-10-06T13:10:39.095917+00:00 UTC_
+_Last updated: 2026-10-07T13:06:29.831759+00:00 UTC_
