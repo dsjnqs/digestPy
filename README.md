@@ -1,4 +1,4 @@
-# Daily Digest — 2026-10-07
+# Daily Digest — 2026-10-08
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-On average, Americans eat 18 acres of pizza everyday.
+It costs more to buy a new car today in the United States than it cost Christopher Columbus to equip and undertake three voyages to and from the New World.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ On average, Americans eat 18 acres of pizza everyday.
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"Be happy now, without reason - or you never will be at all." — Dan Millman
+"Success is not how high you have climbed, but how you make a positive difference to the world." — Roy T. Bennett
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Rain Quail in Bhigwan August 2025 by Tisha Mukherjee 13.jpg](https://upload.wikimedia.org/wikipedia/commons/6/64/Rain_Quail_in_Bhigwan_August_2025_by_Tisha_Mukherjee_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![011 Jaguar drinking in Encontro das Águas State Park Photo by Giles Laurent.jpg](https://upload.wikimedia.org/wikipedia/commons/e/ec/011_Jaguar_drinking_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Rain Quail in Bhigwan August 2025 by Tisha Mukherjee 13.jpg**
+**011 Jaguar drinking in Encontro das Águas State Park Photo by Giles Laurent.jpg**
 
-Coturnix coromandelica (Rain Quail) in Bhigwan, Maharashtra, India.
+Jaguar (Panthera onca) drinking from the river in Mato Grosso, Brazil
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rain_Quail_in_Bhigwan_August_2025_by_Tisha_Mukherjee_13.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:011_Jaguar_drinking_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -49,8 +49,8 @@ Coturnix coromandelica (Rain Quail) in Bhigwan, Maharashtra, India.
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Video Games · Easy]** In the first game of the Sly Cooper franchise, what family heirloom did Sly Cooper want to steal back?
-> Answer: ||Thievius Raccoonus||
+**[Mythology · Hard]** According to Algonquian folklore, how does one transform into a Wendigo?
+> Answer: ||Participating in cannibalism.||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -59,10 +59,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**3761 BC** — The epoch reference date epoch (origin) of the modern Hebrew calendar (Proleptic Julian calendar).
+**1943** — World War II: Around 30 civilians are executed by Friedrich Schubert's paramilitary group in Kallikratis, Crete.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-10-07T13:06:29.831759+00:00 UTC_
+_Last updated: 2026-10-08T13:13:45.611722+00:00 UTC_
