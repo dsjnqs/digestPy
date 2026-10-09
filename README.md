@@ -1,4 +1,4 @@
-# Daily Digest — 2026-10-08
+# Daily Digest — 2026-10-09
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-It costs more to buy a new car today in the United States than it cost Christopher Columbus to equip and undertake three voyages to and from the New World.
+Mexico City sinks about 10 inches a year
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ It costs more to buy a new car today in the United States than it cost Christoph
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"Success is not how high you have climbed, but how you make a positive difference to the world." — Roy T. Bennett
+"The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool." — Ray Bradbury
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![011 Jaguar drinking in Encontro das Águas State Park Photo by Giles Laurent.jpg](https://upload.wikimedia.org/wikipedia/commons/e/ec/011_Jaguar_drinking_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![PO boxes at the historic Chico Post Office (2024)-L1005460.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e1/PO_boxes_at_the_historic_Chico_Post_Office_%282024%29-L1005460.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**011 Jaguar drinking in Encontro das Águas State Park Photo by Giles Laurent.jpg**
+**PO boxes at the historic Chico Post Office (2024)-L1005460.jpg**
 
-Jaguar (Panthera onca) drinking from the river in Mato Grosso, Brazil
+PO boxes at the historic U.S. Post Office in downtown Chico, California. Today is International World Post Day.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:011_Jaguar_drinking_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PO_boxes_at_the_historic_Chico_Post_Office_(2024)-L1005460.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -49,8 +49,8 @@ Jaguar (Panthera onca) drinking from the river in Mato Grosso, Brazil
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Mythology · Hard]** According to Algonquian folklore, how does one transform into a Wendigo?
-> Answer: ||Participating in cannibalism.||
+**[Entertainment: Film · Medium]** Velma Kelly and Roxie Hart are the protagonists of which Oscar winning movie?
+> Answer: ||Chicago||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -59,10 +59,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1943** — World War II: Around 30 civilians are executed by Friedrich Schubert's paramilitary group in Kallikratis, Crete.
+**1873** — A meeting at the U.S. Naval Academy establishes the U.S. Naval Institute.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-10-08T13:13:45.611722+00:00 UTC_
+_Last updated: 2026-10-09T13:00:29.889485+00:00 UTC_
