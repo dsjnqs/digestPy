@@ -1,4 +1,4 @@
-# Daily Digest — 2026-10-09
+# Daily Digest — 2026-10-10
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Mexico City sinks about 10 inches a year
+About 55% of all movies are rated R.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ Mexico City sinks about 10 inches a year
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool." — Ray Bradbury
+"Ability is a poor man's wealth." — John Wooden
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![PO boxes at the historic Chico Post Office (2024)-L1005460.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e1/PO_boxes_at_the_historic_Chico_Post_Office_%282024%29-L1005460.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Bust of Germanicus, front - Getty Museum (2021.66).jpg](https://upload.wikimedia.org/wikipedia/commons/b/be/Bust_of_Germanicus%2C_front_-_Getty_Museum_%282021.66%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**PO boxes at the historic Chico Post Office (2024)-L1005460.jpg**
+**Bust of Germanicus, front - Getty Museum (2021.66).jpg**
 
-PO boxes at the historic U.S. Post Office in downtown Chico, California. Today is International World Post Day.
+Bust of Germanicus, Getty Villa, California. The young Germanicus is depicted before the Roman rite of depositio barbae, the first shaving of the beard. Adopted by emperor Tiberius, Germanicus should succed him as Emperor, if he hadn't died on this day 2007 years ago.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PO_boxes_at_the_historic_Chico_Post_Office_(2024)-L1005460.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bust_of_Germanicus,_front_-_Getty_Museum_(2021.66).jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -49,8 +49,8 @@ PO boxes at the historic U.S. Post Office in downtown Chico, California. Today i
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Film · Medium]** Velma Kelly and Roxie Hart are the protagonists of which Oscar winning movie?
-> Answer: ||Chicago||
+**[Entertainment: Video Games · Medium]** Who composed the soundtrack for the game VVVVVV?
+> Answer: ||Magnus Pålsson||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -59,10 +59,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1873** — A meeting at the U.S. Naval Academy establishes the U.S. Naval Institute.
+**1580** — Over 600 Papal troops land at Dún an Óir, Ireland to support the Second Desmond Rebellion.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-10-09T13:00:29.889485+00:00 UTC_
+_Last updated: 2026-10-10T12:17:35.469755+00:00 UTC_
