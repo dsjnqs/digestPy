@@ -1,4 +1,4 @@
-# Daily Digest — 2026-10-10
+# Daily Digest — 2026-10-11
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-About 55% of all movies are rated R.
+You can lead a cow upstairs but not downstairs.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ About 55% of all movies are rated R.
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"Ability is a poor man's wealth." — John Wooden
+"You only live once, but if you do it right, once is enough." — Mae West
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Bust of Germanicus, front - Getty Museum (2021.66).jpg](https://upload.wikimedia.org/wikipedia/commons/b/be/Bust_of_Germanicus%2C_front_-_Getty_Museum_%282021.66%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Zona arqueológica de Cantona, Puebla, México, 2013-10-11, DD 43.JPG](https://upload.wikimedia.org/wikipedia/commons/a/a2/Zona_arqueol%C3%B3gica_de_Cantona%2C_Puebla%2C_M%C3%A9xico%2C_2013-10-11%2C_DD_43.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Bust of Germanicus, front - Getty Museum (2021.66).jpg**
+**Zona arqueológica de Cantona, Puebla, México, 2013-10-11, DD 43.JPG**
 
-Bust of Germanicus, Getty Villa, California. The young Germanicus is depicted before the Roman rite of depositio barbae, the first shaving of the beard. Adopted by emperor Tiberius, Germanicus should succed him as Emperor, if he hadn't died on this day 2007 years ago.
+Archaeological area of Cantona, Puebla, Mexico
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bust_of_Germanicus,_front_-_Getty_Museum_(2021.66).jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Zona_arqueol%C3%B3gica_de_Cantona,_Puebla,_M%C3%A9xico,_2013-10-11,_DD_43.JPG)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -49,8 +49,8 @@ Bust of Germanicus, Getty Villa, California. The young Germanicus is depicted be
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Video Games · Medium]** Who composed the soundtrack for the game VVVVVV?
-> Answer: ||Magnus Pålsson||
+**[Entertainment: Television · Medium]** Who was Firestorm's rival during the original run of UK Robot Wars?
+> Answer: ||Panic Attack||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -59,10 +59,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1580** — Over 600 Papal troops land at Dún an Óir, Ireland to support the Second Desmond Rebellion.
+**2013** — A migrant boat sinks in the Channel of Sicily with at least 34 people dead.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-10-10T12:17:35.469755+00:00 UTC_
+_Last updated: 2026-10-11T12:33:31.725095+00:00 UTC_
