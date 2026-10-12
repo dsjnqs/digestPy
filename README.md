@@ -1,4 +1,4 @@
-# Daily Digest — 2026-10-11
+# Daily Digest — 2026-10-12
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-You can lead a cow upstairs but not downstairs.
+The average lead pencil will draw a line 35 miles long or write approximately 50,000 English words.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ You can lead a cow upstairs but not downstairs.
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"You only live once, but if you do it right, once is enough." — Mae West
+"Those who know, do. Those that understand, teach." — Aristotle
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Zona arqueológica de Cantona, Puebla, México, 2013-10-11, DD 43.JPG](https://upload.wikimedia.org/wikipedia/commons/a/a2/Zona_arqueol%C3%B3gica_de_Cantona%2C_Puebla%2C_M%C3%A9xico%2C_2013-10-11%2C_DD_43.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Gotland Grand National October 2023 12.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d1/Gotland_Grand_National_October_2023_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Zona arqueológica de Cantona, Puebla, México, 2013-10-11, DD 43.JPG**
+**Gotland Grand National October 2023 12.jpg**
 
-Archaeological area of Cantona, Puebla, Mexico
+Gotland Grand National 2023. Gotland Grand National has long been considered the world’s largest Enduro competition and was first run in 1984.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Zona_arqueol%C3%B3gica_de_Cantona,_Puebla,_M%C3%A9xico,_2013-10-11,_DD_43.JPG)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gotland_Grand_National_October_2023_12.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -49,8 +49,8 @@ Archaeological area of Cantona, Puebla, Mexico
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Television · Medium]** Who was Firestorm's rival during the original run of UK Robot Wars?
-> Answer: ||Panic Attack||
+**[Entertainment: Television · Easy]** When did the TV show Rick and Morty first air on Adult Swim?
+> Answer: ||2013||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -59,10 +59,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**2013** — A migrant boat sinks in the Channel of Sicily with at least 34 people dead.
+**1582** — Because of the implementation of the Gregorian calendar this day does not exist in this year in Italy, Poland, Portugal and Spain.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-10-11T12:33:31.725095+00:00 UTC_
+_Last updated: 2026-10-12T15:06:26.636832+00:00 UTC_
