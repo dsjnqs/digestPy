@@ -1,4 +1,4 @@
-# Daily Digest — 2026-10-12
+# Daily Digest — 2026-10-13
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The average lead pencil will draw a line 35 miles long or write approximately 50,000 English words.
+The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis..  
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ The average lead pencil will draw a line 35 miles long or write approximately 50
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"Those who know, do. Those that understand, teach." — Aristotle
+"Life can be the scariest and most beautiful thing simultaneously." — Maxime Lagace
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Gotland Grand National October 2023 12.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d1/Gotland_Grand_National_October_2023_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Desert elephant (Loxodonta africana) spraying sand.jpg](https://upload.wikimedia.org/wikipedia/commons/5/50/Desert_elephant_%28Loxodonta_africana%29_spraying_sand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Gotland Grand National October 2023 12.jpg**
+**Desert elephant (Loxodonta africana) spraying sand.jpg**
 
-Gotland Grand National 2023. Gotland Grand National has long been considered the world’s largest Enduro competition and was first run in 1984.
+Desert elephant (Loxodonta africana) spraying sand on herself while guarding her sleeping baby. She has covered the baby with a branch. In Damaraland, Namibia
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gotland_Grand_National_October_2023_12.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Desert_elephant_(Loxodonta_africana)_spraying_sand.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -49,8 +49,8 @@ Gotland Grand National 2023. Gotland Grand National has long been considered the
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Television · Easy]** When did the TV show Rick and Morty first air on Adult Swim?
-> Answer: ||2013||
+**[Entertainment: Video Games · Medium]** In the co-op shooter Payday 2, which contact helps you break out Hoxton?
+> Answer: ||The Dentist||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -59,10 +59,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1582** — Because of the implementation of the Gregorian calendar this day does not exist in this year in Italy, Poland, Portugal and Spain.
+**1976** — The first electron micrograph of an Ebola viral particle is obtained by Dr. F. A. Murphy, now at U.C. Davis, who was then working at the C.D.C.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-10-12T15:06:26.636832+00:00 UTC_
+_Last updated: 2026-10-13T13:59:40.898922+00:00 UTC_
