@@ -1,4 +1,4 @@
-# Daily Digest — 2026-10-13
+# Daily Digest — 2026-10-14
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis..  
+Peanuts are one of the ingredients of dynamite.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ The longest word in the English language, according to the Oxford English Dictio
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"Life can be the scariest and most beautiful thing simultaneously." — Maxime Lagace
+"Genius is one percent inspiration and ninety-nine percent perspiration." — Thomas Edison
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Desert elephant (Loxodonta africana) spraying sand.jpg](https://upload.wikimedia.org/wikipedia/commons/5/50/Desert_elephant_%28Loxodonta_africana%29_spraying_sand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Great Blue Heron (Ardea herodias), hunting.jpg](https://upload.wikimedia.org/wikipedia/commons/6/66/Great_Blue_Heron_%28Ardea_herodias%29%2C_hunting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Desert elephant (Loxodonta africana) spraying sand.jpg**
+**Great Blue Heron (Ardea herodias), hunting.jpg**
 
-Desert elephant (Loxodonta africana) spraying sand on herself while guarding her sleeping baby. She has covered the baby with a branch. In Damaraland, Namibia
+Great Blue Heron (Ardea herodias), hunting at Richardson Bay near Strawberry, California.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Desert_elephant_(Loxodonta_africana)_spraying_sand.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Great_Blue_Heron_(Ardea_herodias),_hunting.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -49,8 +49,8 @@ Desert elephant (Loxodonta africana) spraying sand on herself while guarding her
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Video Games · Medium]** In the co-op shooter Payday 2, which contact helps you break out Hoxton?
-> Answer: ||The Dentist||
+**[Sports · Medium]** Which portuguese island is soccer player Cristiano Ronaldo from?
+> Answer: ||Madeira||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -59,10 +59,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1976** — The first electron micrograph of an Ebola viral particle is obtained by Dr. F. A. Murphy, now at U.C. Davis, who was then working at the C.D.C.
+**1952** — Korean War: United Nations and South Korean forces launch Operation Showdown against Chinese strongholds at the Iron Triangle. The resulting Battle of Triangle Hill is the biggest and bloodiest battle of 1952.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-10-13T13:59:40.898922+00:00 UTC_
+_Last updated: 2026-10-14T11:36:27.498924+00:00 UTC_
