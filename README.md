@@ -1,4 +1,4 @@
-# Daily Digest — 2026-10-14
+# Daily Digest — 2026-10-15
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Peanuts are one of the ingredients of dynamite.
+The average shelf-life of a latex condom is about two years.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ Peanuts are one of the ingredients of dynamite.
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"Genius is one percent inspiration and ninety-nine percent perspiration." — Thomas Edison
+"Everything eaten is killed. Every meal is a sacrifice." — Adi Da Samraj
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Great Blue Heron (Ardea herodias), hunting.jpg](https://upload.wikimedia.org/wikipedia/commons/6/66/Great_Blue_Heron_%28Ardea_herodias%29%2C_hunting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Pepino de mar (Holothuria fuscogilva), parque nacional Ras Muhammad, Egipto, 2022-03-28, DD 119.jpg](https://upload.wikimedia.org/wikipedia/commons/9/9e/Pepino_de_mar_%28Holothuria_fuscogilva%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-28%2C_DD_119.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Great Blue Heron (Ardea herodias), hunting.jpg**
+**Pepino de mar (Holothuria fuscogilva), parque nacional Ras Muhammad, Egipto, 2022-03-28, DD 119.jpg**
 
-Great Blue Heron (Ardea herodias), hunting at Richardson Bay near Strawberry, California.
+White teatfish (Holothuria fuscogilva), Ras Muhammad National Park, Red Sea, Egypt. This species of sea cucumber, also known as white teeth, is found in shallow waters near islands and around coral reefs in the tropical waters of the Indo-Pacific ocean. Juvenile cucumbers live in shallower waters (such as inter-tidal zones) and then migrate to deeper waters as they mature. Adult cucumbers weigh between 2.4 and 4 kilograms. They are oval in shape and have a firm texture. This species cucumber has lateral papillae (teats) which are often buried in the sand. As it's consumed as a food and is part of a large commercial fishery across its range, it was listed as vulnerable on the IUCN Red List in 2010 due to overfishing.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Great_Blue_Heron_(Ardea_herodias),_hunting.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pepino_de_mar_(Holothuria_fuscogilva),_parque_nacional_Ras_Muhammad,_Egipto,_2022-03-28,_DD_119.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -49,8 +49,8 @@ Great Blue Heron (Ardea herodias), hunting at Richardson Bay near Strawberry, Ca
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Sports · Medium]** Which portuguese island is soccer player Cristiano Ronaldo from?
-> Answer: ||Madeira||
+**[Entertainment: Video Games · Hard]** "Gimmick!" is a Japanese Famicom game that uses a sound chip expansion in the cartridge. What is it called?
+> Answer: ||FME-7||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -59,10 +59,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1952** — Korean War: United Nations and South Korean forces launch Operation Showdown against Chinese strongholds at the Iron Triangle. The resulting Battle of Triangle Hill is the biggest and bloodiest battle of 1952.
+**1989** — Wayne Gretzky becomes the all-time leading points scorer in the NHL.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-10-14T11:36:27.498924+00:00 UTC_
+_Last updated: 2026-10-15T11:15:11.532681+00:00 UTC_
