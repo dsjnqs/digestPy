@@ -1,4 +1,4 @@
-# Daily Digest — 2026-10-19
+# Daily Digest — 2026-10-20
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The ZIP in “ZIP code” means Zoning Improvement Plan.
+Most lipstick contains fish scales.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ The ZIP in “ZIP code” means Zoning Improvement Plan.
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"The secret of change is to focus all your energy not on fighting the old, but on building the new." — Colin R. Davis
+"Success is about doing the right thing, not about doing everything right." — Gary Keller
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Bengal tiger in Sanjay Dubri Tiger Reserve December 2024 by Tisha Mukherjee 11.jpg](https://upload.wikimedia.org/wikipedia/commons/8/84/Bengal_tiger_in_Sanjay_Dubri_Tiger_Reserve_December_2024_by_Tisha_Mukherjee_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Gewone fopzwam (Laccaria laccata). Locatie, Paddenstoelenreservaat. 14-10-2025. (d.j.b).jpg](https://upload.wikimedia.org/wikipedia/commons/7/71/Gewone_fopzwam_%28Laccaria_laccata%29._Locatie%2C_Paddenstoelenreservaat._14-10-2025._%28d.j.b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Bengal tiger in Sanjay Dubri Tiger Reserve December 2024 by Tisha Mukherjee 11.jpg**
+**Gewone fopzwam (Laccaria laccata). Locatie, Paddenstoelenreservaat. 14-10-2025. (d.j.b).jpg**
 
-Panthera tigris tigris (Bengal tiger) in Sanjay Dubri Tiger Reserve, Madhya Pradesh, India
+Cap with curled gills of a  Laccaria laccata (deceiver, lackluster laccaria) Focus stack of 13 photos.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bengal_tiger_in_Sanjay_Dubri_Tiger_Reserve_December_2024_by_Tisha_Mukherjee_11.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gewone_fopzwam_(Laccaria_laccata)._Locatie,_Paddenstoelenreservaat._14-10-2025._(d.j.b).jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -60,10 +60,10 @@ _Trivia lookup failed today._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1453** — The Hundred Years' War ends with the French recapture of Bordeaux, leaving English control only on Calais
+**1827** — In the Battle of Navarino, a combined Turkish and Egyptian fleet is defeated by British, French, and Russian naval forces in the last significant battle fought with wooden sailing ships.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-10-19T12:48:51.128687+00:00 UTC_
+_Last updated: 2026-10-20T11:18:40.617614+00:00 UTC_
