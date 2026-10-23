@@ -1,4 +1,4 @@
-# Daily Digest — 2026-10-22
+# Daily Digest — 2026-10-23
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Russians generally answer the phone by saying, "I'm listening".
+The average American looks at eight houses before buying one.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ Russians generally answer the phone by saying, "I'm listening".
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one." — Mark Twain
+"If someone betrays you once, it's their fault; if they betray you twice, it's your fault." — Eleanor Roosevelt
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Red Dragon scuplture during River Lee flooding, October 2023.jpg](https://upload.wikimedia.org/wikipedia/commons/5/51/Red_Dragon_scuplture_during_River_Lee_flooding%2C_October_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Vodno Telecommunication Tower.jpg](https://upload.wikimedia.org/wikipedia/commons/7/7e/Vodno_Telecommunication_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Red Dragon scuplture during River Lee flooding, October 2023.jpg**
+**Vodno Telecommunication Tower.jpg**
 
-Jim Buckley’s Red Dragon sculpture from 1985 during River Lee flooding, October 2023
+Vodno Telecommunication Tower under construction in Skopje, North Macedonia. Today is the Day of the Macedonian Revolutionary Struggle, a national holiday in North Macedonia celebrated on the occasion of the formation of the Internal Macedonian Revolutionary Organization.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Red_Dragon_scuplture_during_River_Lee_flooding,_October_2023.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vodno_Telecommunication_Tower.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -60,10 +60,10 @@ _Trivia lookup failed today._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1957** — Vietnam War: First United States casualties in Vietnam.
+**1850** — The first National Women's Rights Convention begins in Worcester, Massachusetts, United States.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-10-22T11:34:15.896490+00:00 UTC_
+_Last updated: 2026-10-23T11:23:46.626151+00:00 UTC_
