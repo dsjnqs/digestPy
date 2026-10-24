@@ -1,4 +1,4 @@
-# Daily Digest — 2026-10-23
+# Daily Digest — 2026-10-24
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The average American looks at eight houses before buying one.
+The first streetlights in America were installed in Philadelphia around 1757.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ The average American looks at eight houses before buying one.
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"If someone betrays you once, it's their fault; if they betray you twice, it's your fault." — Eleanor Roosevelt
+"There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world." — Henry Ward Beecher
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Vodno Telecommunication Tower.jpg](https://upload.wikimedia.org/wikipedia/commons/7/7e/Vodno_Telecommunication_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![016 Ocelot in Encontro das Águas State Park Photo by Giles Laurent.jpg](https://upload.wikimedia.org/wikipedia/commons/9/91/016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Vodno Telecommunication Tower.jpg**
+**016 Ocelot in Encontro das Águas State Park Photo by Giles Laurent.jpg**
 
-Vodno Telecommunication Tower under construction in Skopje, North Macedonia. Today is the Day of the Macedonian Revolutionary Struggle, a national holiday in North Macedonia celebrated on the occasion of the formation of the Internal Macedonian Revolutionary Organization.
+Ocelot (Leopardus pardalis) in Mato Grosso, Brazil
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vodno_Telecommunication_Tower.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -60,10 +60,10 @@ _Trivia lookup failed today._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1850** — The first National Women's Rights Convention begins in Worcester, Massachusetts, United States.
+**1911** — Orville Wright remains in the air nine minutes and 45 seconds in a Wright Glider at Kill Devil Hills, North Carolina.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-10-23T11:23:46.626151+00:00 UTC_
+_Last updated: 2026-10-24T10:42:32.895347+00:00 UTC_
