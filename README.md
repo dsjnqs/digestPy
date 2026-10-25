@@ -1,4 +1,4 @@
-# Daily Digest — 2026-10-24
+# Daily Digest — 2026-10-25
 
 _A daily digest, refreshed automatically once a day._
 
@@ -7,7 +7,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 
 _Word lookup failed today._
 
-**Error:** `HTTP Error 530: <none>`
+**Error:** `HTTP Error 502: Bad Gateway`
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The first streetlights in America were installed in Philadelphia around 1757.
+The most sensitive cluster of nerves is at the base of the spine.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ The first streetlights in America were installed in Philadelphia around 1757.
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world." — Henry Ward Beecher
+"The wiser you get, the less you care to look like a fool." — Maxime Lagace
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![016 Ocelot in Encontro das Águas State Park Photo by Giles Laurent.jpg](https://upload.wikimedia.org/wikipedia/commons/9/91/016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Дорога до церкви.jpg](https://upload.wikimedia.org/wikipedia/commons/9/9c/%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0_%D0%B4%D0%BE_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**016 Ocelot in Encontro das Águas State Park Photo by Giles Laurent.jpg**
+**Дорога до церкви.jpg**
 
-Ocelot (Leopardus pardalis) in Mato Grosso, Brazil
+Morning fogs in the Skolivskyi Beskids. At the top there is a church, the highest in Ukraine, Skolovsky city council, Ukraine.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0_%D0%B4%D0%BE_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -60,10 +60,10 @@ _Trivia lookup failed today._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1911** — Orville Wright remains in the air nine minutes and 45 seconds in a Wright Glider at Kill Devil Hills, North Carolina.
+**1945** — The Republic of China takes over administration of Taiwan following Japan's surrender to the Allies.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-10-24T10:42:32.895347+00:00 UTC_
+_Last updated: 2026-10-25T11:08:05.036108+00:00 UTC_
