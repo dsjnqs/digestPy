@@ -1,4 +1,4 @@
-# Daily Digest — 2026-10-25
+# Daily Digest — 2026-10-26
 
 _A daily digest, refreshed automatically once a day._
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The most sensitive cluster of nerves is at the base of the spine.
+“Ithyphallophobia" is a morbid fear of seeing, thinking about or having an erect penis.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ The most sensitive cluster of nerves is at the base of the spine.
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"The wiser you get, the less you care to look like a fool." — Maxime Lagace
+"Loving thoughts and actions are clearly beneficial for our physical and mental health." — Dalai Lama
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Дорога до церкви.jpg](https://upload.wikimedia.org/wikipedia/commons/9/9c/%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0_%D0%B4%D0%BE_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Horses grazing at Trunkol meadow, Jammu and Kashmir, India (crop).jpg](https://upload.wikimedia.org/wikipedia/commons/7/77/Horses_grazing_at_Trunkol_meadow%2C_Jammu_and_Kashmir%2C_India_%28crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Дорога до церкви.jpg**
+**Horses grazing at Trunkol meadow, Jammu and Kashmir, India (crop).jpg**
 
-Morning fogs in the Skolivskyi Beskids. At the top there is a church, the highest in Ukraine, Skolovsky city council, Ukraine.
+Horses grazing at Trunkol meadow in the Himalayas of India. The meadow is situated on the way to the sacred Gangabal Lake in Jammu and Kashmir.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0_%D0%B4%D0%BE_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Horses_grazing_at_Trunkol_meadow,_Jammu_and_Kashmir,_India_(crop).jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -60,10 +60,10 @@ _Trivia lookup failed today._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1945** — The Republic of China takes over administration of Taiwan following Japan's surrender to the Allies.
+**1955** — After the last Allied troops have left the country and following the provisions of the Austrian Independence Treaty, Austria declares permanent neutrality.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-10-25T11:08:05.036108+00:00 UTC_
+_Last updated: 2026-10-26T12:41:39.094580+00:00 UTC_
