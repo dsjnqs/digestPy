@@ -1,4 +1,4 @@
-# Daily Digest — 2026-10-28
+# Daily Digest — 2026-10-29
 
 _A daily digest, refreshed automatically once a day._
 
@@ -7,7 +7,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 
 _Word lookup failed today._
 
-**Error:** `The read operation timed out`
+**Error:** `HTTP Error 404: Not Found`
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The "save" icon on Microsoft Word shows a floppy disk with the shutter on backwards.
+Americans are responsible for about 1/5 of the world’s garbage annually.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ The "save" icon on Microsoft Word shows a floppy disk with the shutter on backwa
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"What we dwell on is who we become." — Oprah Winfrey
+"The more reasons you have for achieving your goal, the more determined you will become." — Brian Tracy
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Moscow TverZastava Vityaz asv2018-09.jpg](https://upload.wikimedia.org/wikipedia/commons/0/0d/Moscow_TverZastava_Vityaz_asv2018-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Vignes près du Pic de Vissou - October 2020.jpg](https://upload.wikimedia.org/wikipedia/commons/b/bf/Vignes_pr%C3%A8s_du_Pic_de_Vissou_-_October_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Moscow TverZastava Vityaz asv2018-09.jpg**
+**Vignes près du Pic de Vissou - October 2020.jpg**
 
-71-931M "Vityaz" tram at Tverskaya Zastava Square in Moscow, Russia
+Vineyards (AOC Languedoc-Cabrières) in autumn at the foot of the Pic de Vissou. Commune of Cabrières, Hérault, France.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Moscow_TverZastava_Vityaz_asv2018-09.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vignes_pr%C3%A8s_du_Pic_de_Vissou_-_October_2020.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -49,8 +49,9 @@ _Wikipedia's Picture of the Day._
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Comics · Hard]** When was the Garfield comic first published?
-> Answer: ||1978||
+_Trivia lookup failed today._
+
+**Error:** `HTTP Error 429: Too Many Requests`
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -59,10 +60,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1420** — Beijing is officially designated the capital of the Ming dynasty on the same year that the Forbidden City, the seat of government, is completed.
+**1921** — The Harvard University football team loses to Centre College, ending a 25-game winning streak. This is considered one of the biggest upsets in college football.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-10-28T12:34:43.858811+00:00 UTC_
+_Last updated: 2026-10-29T12:44:38.421460+00:00 UTC_
