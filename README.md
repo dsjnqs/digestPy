@@ -1,4 +1,4 @@
-# Daily Digest — 2026-10-29
+# Daily Digest — 2026-10-30
 
 _A daily digest, refreshed automatically once a day._
 
@@ -7,7 +7,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 
 _Word lookup failed today._
 
-**Error:** `HTTP Error 404: Not Found`
+**Error:** `HTTP Error 502: Bad Gateway`
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -16,7 +16,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Americans are responsible for about 1/5 of the world’s garbage annually.
+One in fourteen women in America is a natural blonde. Only one in sixteen men is.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +25,7 @@ Americans are responsible for about 1/5 of the world’s garbage annually.
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"The more reasons you have for achieving your goal, the more determined you will become." — Brian Tracy
+"Distant water does not put out a nearby fire." — Chinese Proverb
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Vignes près du Pic de Vissou - October 2020.jpg](https://upload.wikimedia.org/wikipedia/commons/b/bf/Vignes_pr%C3%A8s_du_Pic_de_Vissou_-_October_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![CH.ZG.Walchwil Walchwilerberg Heumoosegg 2016-10-30 OrigX-R gp.jpg](https://upload.wikimedia.org/wikipedia/commons/2/25/CH.ZG.Walchwil_Walchwilerberg_Heumoosegg_2016-10-30_OrigX-R_gp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Vignes près du Pic de Vissou - October 2020.jpg**
+**CH.ZG.Walchwil Walchwilerberg Heumoosegg 2016-10-30 OrigX-R gp.jpg**
 
-Vineyards (AOC Languedoc-Cabrières) in autumn at the foot of the Pic de Vissou. Commune of Cabrières, Hérault, France.
+Sunrays shining through trees and weak fog near Walchwil, Switzerland
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vignes_pr%C3%A8s_du_Pic_de_Vissou_-_October_2020.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CH.ZG.Walchwil_Walchwilerberg_Heumoosegg_2016-10-30_OrigX-R_gp.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -60,10 +60,10 @@ _Trivia lookup failed today._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1921** — The Harvard University football team loses to Centre College, ending a 25-game winning streak. This is considered one of the biggest upsets in college football.
+**1993** — The Troubles: Loyalists carry out a mass shooting at a Halloween party in Greysteel, Northern Ireland, killing eight civilians, six Catholics and two Protestants.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-10-29T12:44:38.421460+00:00 UTC_
+_Last updated: 2026-10-30T12:36:36.731028+00:00 UTC_
