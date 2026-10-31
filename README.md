@@ -1,13 +1,11 @@
-# Daily Digest — 2026-10-30
+# Daily Digest — 2026-10-31
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-_Word lookup failed today._
-
-**Error:** `HTTP Error 502: Bad Gateway`
+**queens** *(noun)* — A female monarch. Example: Queen Victoria.
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -16,7 +14,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-One in fourteen women in America is a natural blonde. Only one in sixteen men is.
+Nepal is the only country that doesn’t have a rectangular flag.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +23,7 @@ One in fourteen women in America is a natural blonde. Only one in sixteen men is
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"Distant water does not put out a nearby fire." — Chinese Proverb
+"When you believe in a thing, believe in it all the way, implicitly and unquestionable." — Walt Disney
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,13 +32,14 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![CH.ZG.Walchwil Walchwilerberg Heumoosegg 2016-10-30 OrigX-R gp.jpg](https://upload.wikimedia.org/wikipedia/commons/2/25/CH.ZG.Walchwil_Walchwilerberg_Heumoosegg_2016-10-30_OrigX-R_gp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Graveyard 27x39 ENGLISH.png](https://upload.wikimedia.org/wikipedia/commons/2/25/Graveyard_27x39_ENGLISH.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**CH.ZG.Walchwil Walchwilerberg Heumoosegg 2016-10-30 OrigX-R gp.jpg**
+**Graveyard 27x39 ENGLISH.png**
 
-Sunrays shining through trees and weak fog near Walchwil, Switzerland
+MACS 2129-1 Galactic Graveyard: "This chillingly haunted galaxy mysteriously stopped making stars only a few billion years after the Big Bang! It became a cosmic cemetery, illuminated by the red glow of decaying stars. Dare to enter, and you might encounter the frightening corpses of exoplanets or the final death throes of once-mighty stars."
+NASA Exoplanet Exploration Halloween poster 2020.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CH.ZG.Walchwil_Walchwilerberg_Heumoosegg_2016-10-30_OrigX-R_gp.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Graveyard_27x39_ENGLISH.png)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -60,10 +59,10 @@ _Trivia lookup failed today._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1993** — The Troubles: Loyalists carry out a mass shooting at a Halloween party in Greysteel, Northern Ireland, killing eight civilians, six Catholics and two Protestants.
+**1917** — World War I: Battle of Beersheba: The "last successful cavalry charge in history".
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-10-30T12:36:36.731028+00:00 UTC_
+_Last updated: 2026-10-31T12:03:26.411532+00:00 UTC_
