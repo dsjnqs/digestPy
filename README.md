@@ -1,11 +1,13 @@
-# Daily Digest — 2026-11-01
+# Daily Digest — 2026-11-02
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**exult** *(verb)* — To rejoice; to be very happy, especially in triumph.
+_Word lookup failed today._
+
+**Error:** `HTTP Error 404: Not Found`
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +16,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The first McDonald's restaurant in Canada was in Richmond, British Columbia.
+Lee Harvey Oswald's cadaver tag sold at an auction for $6,600 in 1992.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +25,7 @@ The first McDonald's restaurant in Canada was in Richmond, British Columbia.
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"When something comes from within, when it is a part of you, you have no choice but to live it, to express it." — Kamal Ravikant
+"If you want others to be happy, practice compassion. If you want to be happy, practice compassion." — Dalai Lama
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Església Santa Margalida - Santa Margalida - Mallorca - stained-glass windows.jpg](https://upload.wikimedia.org/wikipedia/commons/e/ea/Esgl%C3%A9sia_Santa_Margalida_-_Santa_Margalida_-_Mallorca_-_stained-glass_windows.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Saint-Charles Cemetery 05.jpg](https://upload.wikimedia.org/wikipedia/commons/1/15/Snow-covered_Saint-Charles_Cemetery_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Església Santa Margalida - Santa Margalida - Mallorca - stained-glass windows.jpg**
+**Saint-Charles Cemetery 05.jpg**
 
-The twelve stained-glass windows of the Església Santa Margalida (Santa Margalida, Majorca, Spain) depicting twelve saints. Today is All Saints' Day.
+Saint-Charles Cemetery is the largest cemetery in Quebec City. Today is All Souls' Day.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Esgl%C3%A9sia_Santa_Margalida_-_Santa_Margalida_-_Mallorca_-_stained-glass_windows.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Snow-covered_Saint-Charles_Cemetery_6.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -58,10 +60,10 @@ _Trivia lookup failed today._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1942** — World War II: Matanikau Offensive begins during the Guadalcanal Campaign and ends three days later with an American victory.
+**1795** — The French Directory, a five-man revolutionary government, is created.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-11-01T13:03:32.196903+00:00 UTC_
+_Last updated: 2026-11-02T15:26:47.485070+00:00 UTC_
