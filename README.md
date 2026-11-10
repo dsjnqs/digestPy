@@ -1,11 +1,11 @@
-# Daily Digest — 2026-11-09
+# Daily Digest — 2026-11-10
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**newsgroup** *(noun)* — A repository on a computer network where people can post messages, usually about a single subject.
+**shoal** *(noun)* — A sandbank or sandbar creating a shallow.
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Every year 4 people in the UK die putting their trousers on.
+A dime has 118 ridges around the edge.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ Every year 4 people in the UK die putting their trousers on.
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it." — Dale Carnegie
+"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward." — Colin Powell
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,13 +32,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Panorama of Himalayas from Ranikhet, Uttarakhand, India.jpg](https://upload.wikimedia.org/wikipedia/commons/4/4d/Panorama_of_Himalayas_from_Ranikhet%2C_Uttarakhand%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Verdun – Cathédrale Notre-Dame – Crypte 2025 08 16.jpg](https://upload.wikimedia.org/wikipedia/commons/5/56/Verdun_%E2%80%93_Cath%C3%A9drale_Notre-Dame_%E2%80%93_Crypte_2025_08_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Panorama of Himalayas from Ranikhet, Uttarakhand, India.jpg**
+**Verdun – Cathédrale Notre-Dame – Crypte 2025 08 16.jpg**
 
-Panoramic view of the Kumaon Himalaya as seen from Ranikhet in the northern Indian state of Uttarakhand. Himalayan giants such as Trisul (7,120 m (23,360 ft)), Nanda Devi (7,817 m (25,646 ft)), Nanda Kot (6,861 m (22,510 ft)), Panchachuli (6,904 m (22,651 ft)) and other peaks are prominently visible.
+12th-century crypt of Verdun Cathedral, France, rediscovered after the Great War during the restoration works. When the reconstruction of the crypt was completed, the cathedral was reconsecrated on 10 November 1935.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Panorama_of_Himalayas_from_Ranikhet,_Uttarakhand,_India.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Verdun_%E2%80%93_Cath%C3%A9drale_Notre-Dame_%E2%80%93_Crypte_2025_08_16.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -47,8 +47,9 @@ Panoramic view of the Kumaon Himalaya as seen from Ranikhet in the northern Indi
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Science & Nature · Hard]** What is the scientific name of the knee cap?
-> Answer: ||Patella||
+_Trivia lookup failed today._
+
+**Error:** `HTTP Error 429: Too Many Requests`
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -57,10 +58,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**694** — At the Seventeenth Council of Toledo, Egica, a king of the Visigoths of Hispania, accuses Jews of aiding Muslims, sentencing all Jews to slavery.
+**1944** — The ammunition ship USS Mount Hood explodes at Seeadler Harbour, Manus, Admiralty Islands, killing at least 432 and wounding 371.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-11-09T15:53:23.573973+00:00 UTC_
+_Last updated: 2026-11-10T14:41:39.955055+00:00 UTC_
