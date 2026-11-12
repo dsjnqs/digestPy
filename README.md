@@ -1,11 +1,11 @@
-# Daily Digest — 2026-11-11
+# Daily Digest — 2026-11-12
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**istle** *(noun)* — A variety of Agave angustifolia var. angustifolia (syn. Agave rigida), furnishing a strong coarse fiber.
+**ficklest** *(adjective)* — Quick to change one’s opinion or allegiance; insincere; not loyal or reliable.
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The human heart creates enough pressure to squirt blood 30ft.
+Dueling is legal in Paraguay as long as both parties are registered blood donors.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ The human heart creates enough pressure to squirt blood 30ft.
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"A random act of kindness, no matter how small, can make a tremendous impact on someone else's life." — Roy T. Bennett
+"In the practice of tolerance, one's enemy is the best teacher." — Dalai Lama
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,13 +32,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Kościelec view 2.jpg](https://upload.wikimedia.org/wikipedia/commons/2/28/Ko%C5%9Bcielec_view_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![CZE-22-Czechoslovak National Bank-50 Korun (1929).jpg](https://upload.wikimedia.org/wikipedia/commons/5/5d/CZE-22-Czechoslovak_National_Bank-50_Korun_%281929%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Kościelec view 2.jpg**
+**CZE-22-Czechoslovak National Bank-50 Korun (1929).jpg**
 
-Panoramic view towards Świnica from Kościelec, Tatra National Park, Zakopane. Today is Poland's National Independence Day.
+50 Korun banknote of Czechoslovakia, issued in 1929 by the National Bank of Czechoslovakia
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ko%C5%9Bcielec_view_2.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CZE-22-Czechoslovak_National_Bank-50_Korun_(1929).jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -58,10 +58,10 @@ _Trivia lookup failed today._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**2000** — Kaprun disaster: One hundred fifty-five skiers and snowboarders die when a cable car catches fire in an alpine tunnel in Kaprun, Austria.
+**1927** — Leon Trotsky is expelled from the Soviet Communist Party, leaving Joseph Stalin in undisputed control of the Soviet Union.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-11-11T13:57:00.812999+00:00 UTC_
+_Last updated: 2026-11-12T14:58:26.720281+00:00 UTC_
