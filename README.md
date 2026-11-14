@@ -1,11 +1,12 @@
-# Daily Digest — 2026-11-13
+# Daily Digest — 2026-11-14
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**hooded** *(verb)* — To cover something with a hood.
+**rehashed** *(verb)* — To repeat with minor variation.
+> _"The CEO of the company only rehashed a speech for the news conference."_
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +15,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-1 in 8 Americans has worked at a McDonalds restaurant.
+The average person spends about two years on the phone in a lifetime.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +24,7 @@ _Something true, interesting, or surprising._
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question." — John Tukey
+"There is nothing more frightful than ignorance in action." — Johann Wolfgang von Goethe
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,13 +33,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Indian Courser in Bhigwan August 2025 by Tisha Mukherjee 07.jpg](https://upload.wikimedia.org/wikipedia/commons/4/46/Indian_Courser_in_Bhigwan_August_2025_by_Tisha_Mukherjee_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Eastern quoll (Dasyurus viverrinus) fawn morph Esk Valley.jpg](https://upload.wikimedia.org/wikipedia/commons/b/bd/Eastern_quoll_%28Dasyurus_viverrinus%29_fawn_morph_Esk_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Indian Courser in Bhigwan August 2025 by Tisha Mukherjee 07.jpg**
+**Eastern quoll (Dasyurus viverrinus) fawn morph Esk Valley.jpg**
 
-Cursorius coromandelicus (Indian courser) in Bhigwan, Maharashtra, India
+Eastern quoll (Dasyurus viverrinus) fawn morph, Esk Valley, Tasmania, Australia.
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Indian_Courser_in_Bhigwan_August_2025_by_Tisha_Mukherjee_07.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Eastern_quoll_(Dasyurus_viverrinus)_fawn_morph_Esk_Valley.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -47,9 +48,8 @@ Cursorius coromandelicus (Indian courser) in Bhigwan, Maharashtra, India
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-_Trivia lookup failed today._
-
-**Error:** `HTTP Error 429: Too Many Requests`
+**[Geography · Medium]** Which country claims ownership of the disputed state Kosovo?
+> Answer: ||Serbia||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -58,10 +58,10 @@ _Trivia lookup failed today._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1982** — Ray Mancini defeats Duk Koo Kim in a boxing match held in Las Vegas. Kim's subsequent death (on November 17) leads to significant changes in the sport.
+**1941** — World War II: The aircraft carrier HMS Ark Royal sinks due to torpedo damage from the German submarine U-81 sustained on November 13.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-11-13T14:23:51.940981+00:00 UTC_
+_Last updated: 2026-11-14T13:20:00.445137+00:00 UTC_
