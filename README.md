@@ -1,12 +1,13 @@
-# Daily Digest — 2026-11-14
+# Daily Digest — 2026-11-15
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**rehashed** *(verb)* — To repeat with minor variation.
-> _"The CEO of the company only rehashed a speech for the news conference."_
+_Word lookup failed today._
+
+**Error:** `HTTP Error 404: Not Found`
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -15,7 +16,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The average person spends about two years on the phone in a lifetime.
+Venus is the only planet that rotates clockwise.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -24,7 +25,7 @@ The average person spends about two years on the phone in a lifetime.
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"There is nothing more frightful than ignorance in action." — Johann Wolfgang von Goethe
+"The weak can never forgive. Forgiveness is the attribute of the strong." — Mahatma Gandhi
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -33,13 +34,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Eastern quoll (Dasyurus viverrinus) fawn morph Esk Valley.jpg](https://upload.wikimedia.org/wikipedia/commons/b/bd/Eastern_quoll_%28Dasyurus_viverrinus%29_fawn_morph_Esk_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Mirador del Velo de Novia, Seixal, Madeira, Portugal, 2019-05-30, DD 67.jpg](https://upload.wikimedia.org/wikipedia/commons/0/0e/Mirador_del_Velo_de_Novia%2C_Seixal%2C_Madeira%2C_Portugal%2C_2019-05-30%2C_DD_67.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Eastern quoll (Dasyurus viverrinus) fawn morph Esk Valley.jpg**
+**Mirador del Velo de Novia, Seixal, Madeira, Portugal, 2019-05-30, DD 67.jpg**
 
-Eastern quoll (Dasyurus viverrinus) fawn morph, Esk Valley, Tasmania, Australia.
+Véu da Noiva Waterfall, Seixal, Madeira, Portugal
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Eastern_quoll_(Dasyurus_viverrinus)_fawn_morph_Esk_Valley.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mirador_del_Velo_de_Novia,_Seixal,_Madeira,_Portugal,_2019-05-30,_DD_67.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -48,8 +49,9 @@ Eastern quoll (Dasyurus viverrinus) fawn morph, Esk Valley, Tasmania, Australia.
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Geography · Medium]** Which country claims ownership of the disputed state Kosovo?
-> Answer: ||Serbia||
+_Trivia lookup failed today._
+
+**Error:** `HTTP Error 429: Too Many Requests`
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -58,10 +60,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1941** — World War II: The aircraft carrier HMS Ark Royal sinks due to torpedo damage from the German submarine U-81 sustained on November 13.
+**1966** — A Boeing 727 carrying Pan Am Flight 708 crashes near Berlin, Germany, killing all three people on board.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-11-14T13:20:00.445137+00:00 UTC_
+_Last updated: 2026-11-15T13:47:34.655642+00:00 UTC_
