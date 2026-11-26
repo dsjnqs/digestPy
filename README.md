@@ -1,13 +1,11 @@
-# Daily Digest — 2026-11-25
+# Daily Digest — 2026-11-26
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-_Word lookup failed today._
-
-**Error:** `HTTP Error 404: Not Found`
+**untrained** *(adjective)* — Lacking training, not having been instructed in something.
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -16,7 +14,7 @@ _Word lookup failed today._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The official beverage of Ohio is tomato juice.
+The world's youngest parents were 8 and 9 and lived in China in 1910.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,9 +23,7 @@ The official beverage of Ohio is tomato juice.
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-_Quote lookup failed today._
-
-**Error:** `<urlopen error [Errno 104] Connection reset by peer>`
+"Keep your eyes on the stars, but remember to keep your feet on the ground." — Theodore Roosevelt
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -36,13 +32,13 @@ _Quote lookup failed today._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Wredes passage November 2025 01.jpg](https://upload.wikimedia.org/wikipedia/commons/1/10/Wredes_passage_November_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Male wild turkey (Meleagris gallopavo) strutting.jpg](https://upload.wikimedia.org/wikipedia/commons/8/8a/Male_wild_turkey_%28Meleagris_gallopavo%29_strutting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Wredes passage November 2025 01.jpg**
+**Male wild turkey (Meleagris gallopavo) strutting.jpg**
 
-The Wrede passage (Finnish: Wreden pasaasi. Swedish: Wredes passage; also known as the "Old merchant alley", Finnish: Vanha kauppakuja, or the "Grandma tunnel", Finnish: Mummotunneli) is an entity formed by two stone buildings in Kluuvi, Helsinki, Finland
 
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wredes_passage_November_2025_01.jpg)
+
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Male_wild_turkey_(Meleagris_gallopavo)_strutting.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -51,8 +47,9 @@ The Wrede passage (Finnish: Wreden pasaasi. Swedish: Wredes passage; also known 
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[History · Medium]** When did Jamaica receive its independence from England? 
-> Answer: ||1962||
+_Trivia lookup failed today._
+
+**Error:** `HTTP Error 429: Too Many Requests`
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -61,10 +58,10 @@ _A quick knowledge challenge._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1795** — Partitions of Poland: Stanisław August Poniatowski, the last king of independent Poland, is forced to abdicate and is exiled to Russia.
+**1825** — At Union College in Schenectady, New York, a group of college students form the Kappa Alpha Society, the first college social fraternity.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-11-25T17:01:41.094764+00:00 UTC_
+_Last updated: 2026-11-26T16:42:33.366047+00:00 UTC_
