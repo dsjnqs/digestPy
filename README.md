@@ -1,11 +1,11 @@
-# Daily Digest — 2026-11-26
+# Daily Digest — 2026-11-27
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**untrained** *(adjective)* — Lacking training, not having been instructed in something.
+**antibodies** *(noun)* — A protein produced by B-lymphocytes that binds to a specific antigen.
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The world's youngest parents were 8 and 9 and lived in China in 1910.
+A chameleon's tongue is twice the length of its body.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ The world's youngest parents were 8 and 9 and lived in China in 1910.
 ## 💬 Quote of the Day
 _A quote — inspirational, funny, or philosophical._
 
-"Keep your eyes on the stars, but remember to keep your feet on the ground." — Theodore Roosevelt
+"It takes half your life before you discover life is a do-it-yourself project." — Napoleon Hill
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,13 +32,13 @@ _A quote — inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Male wild turkey (Meleagris gallopavo) strutting.jpg](https://upload.wikimedia.org/wikipedia/commons/8/8a/Male_wild_turkey_%28Meleagris_gallopavo%29_strutting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Liquid Crystal Phase Transition.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a1/Liquid_Crystal_Phase_Transition.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Male wild turkey (Meleagris gallopavo) strutting.jpg**
+**Liquid Crystal Phase Transition.jpg**
 
+Magnified 100 times, a drop of liquid crystal was dispensed onto a glass plate and a cover slip placed on top. The liquid crystal spreads out into a uniform film under the weight of the cover slip. The image was captured using a microscope configured for crossed polarised light. The colours come about because liquid crystal is birefringent - it changes the polarisation state of the plane-polarised light passing through it. Now, the sort of labyrinthine pattern is caused by a phase transition. The liquid crystal sample is placed on a heat stage and at a particular temperature called the phase transition temperature, the liquid crystal changes from an opaque state to a transparent state, this is the transition front. The image width is about 2mm.
 
-
-[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Male_wild_turkey_(Meleagris_gallopavo)_strutting.jpg)
+[View full details on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Liquid_Crystal_Phase_Transition.jpg)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -58,10 +58,10 @@ _Trivia lookup failed today._
 ## 🕰️ History of the Day
 _An event, person, or moment from history on this date._
 
-**1825** — At Union College in Schenectady, New York, a group of college students form the Kappa Alpha Society, the first college social fraternity.
+**1984** — Under the Brussels Agreement signed between the governments of the United Kingdom and Spain, the former agreed to enter into discussions with Spain over Gibraltar, including sovereignty.
 
 **Source:** [On This Day API (byabbe.se)](https://byabbe.se/on-this-day/)
 
 ---
 
-_Last updated: 2026-11-26T16:42:33.366047+00:00 UTC_
+_Last updated: 2026-11-27T16:28:28.809522+00:00 UTC_
